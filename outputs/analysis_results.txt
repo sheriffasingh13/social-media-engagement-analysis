@@ -1,0 +1,37 @@
+
+OUTPUT 1: Median engagement rate by format
+format  posts  median_rate_pct  posts_unflagged  median_rate_unflagged_pct
+------  -----  ---------------  ---------------  -------------------------
+Photo   426    2.45             419              2.47                     
+Status  45     1.53             45               1.53                     
+Link    22     0.68             20               0.81                     
+Video   7      0.55             7                0.55                     
+
+OUTPUT 2: Photo vs. non-photo within each category
+category     format_group  posts  median_rate_pct
+-----------  ------------  -----  ---------------
+Action       Photo         185    1.23           
+Action       Non-photo     30     0.57           
+Inspiration  Photo         150    3.11           
+Inspiration  Non-photo     5      1.91           
+Product      Photo         91     3.58           
+Product      Non-photo     39     1.47           
+
+OUTPUT 3: Time block by photo vs. non-photo
+time_block           format_group  posts  median_rate_pct
+-------------------  ------------  -----  ---------------
+Overnight (12-5 AM)  Photo         162    2.77           
+Overnight (12-5 AM)  Non-photo     34     1.15           
+Morning (6-11 AM)    Photo         161    2.61           
+Morning (6-11 AM)    Non-photo     32     1.23           
+Afternoon (12-5 PM)  Photo         96     1.93           
+Afternoon (12-5 PM)  Non-photo     8      0.59           
+Evening (6-11 PM)    Photo         7      1.79           
+
+OUTPUT 4: Page-size quartile and time of year
+page_size_quartile  posts  min_page_likes  max_page_likes  first_month  last_month  pct_photo  pct_action  median_rate_pct
+------------------  -----  --------------  --------------  -----------  ----------  ---------  ----------  ---------------
+Q1 smallest         125    81370           111620          1            4           91.2       52.0        1.65           
+Q2                  128    113028          129600          4            7           90.6       31.3        2.32           
+Q3                  128    130791          136393          7            10          82.8       37.5        3.03           
+Q4 largest          119    136642          139441          10           12          75.6       52.1        2.39           

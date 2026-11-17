@@ -1,0 +1,501 @@
+page_likes,format,category,month,weekday,hour,paid,reach,impressions,likes,comments,shares,total_interactions,flag_low_reach,flag_reach_gt_impr,flag_any,interactions,engagement_rate,time_block,page_size_quartile
+139441,Photo,Product,12,4,3,Unpaid,2752,5091,79,4,17,100,False,False,False,100,3.634,Overnight (12-5 AM),Q4 largest
+139441,Status,Product,12,3,10,Unpaid,10460,19057,130,5,29,164,False,False,False,164,1.568,Morning (6-11 AM),Q4 largest
+139441,Photo,Inspiration,12,3,3,Unpaid,2413,4373,66,0,14,80,False,False,False,80,3.315,Overnight (12-5 AM),Q4 largest
+139441,Photo,Product,12,2,10,Paid,50128,87991,1572,58,147,1777,False,False,False,1777,3.545,Morning (6-11 AM),Q4 largest
+139441,Photo,Product,12,2,3,Unpaid,7244,13594,325,19,49,393,False,False,False,393,5.425,Overnight (12-5 AM),Q4 largest
+139441,Status,Product,12,1,9,Unpaid,10472,20849,152,1,33,186,False,False,False,186,1.776,Morning (6-11 AM),Q4 largest
+139441,Photo,Inspiration,12,1,3,Paid,11692,19479,249,3,27,279,False,False,False,279,2.386,Overnight (12-5 AM),Q4 largest
+139441,Photo,Inspiration,12,7,9,Paid,13720,24137,325,0,14,339,False,False,False,339,2.471,Morning (6-11 AM),Q4 largest
+139441,Status,Product,12,7,3,Unpaid,11844,22538,161,0,31,192,False,False,False,192,1.621,Overnight (12-5 AM),Q4 largest
+139441,Photo,Inspiration,12,6,10,Unpaid,4694,8668,113,3,26,142,False,False,False,142,3.025,Morning (6-11 AM),Q4 largest
+139441,Status,Product,12,5,10,Unpaid,21744,42334,233,0,19,252,False,False,False,252,1.159,Morning (6-11 AM),Q4 largest
+139441,Photo,Product,12,5,10,Unpaid,3112,5590,88,0,18,106,False,False,False,106,3.406,Morning (6-11 AM),Q4 largest
+139441,Photo,Product,12,5,10,Unpaid,2847,5133,90,0,14,104,False,False,False,104,3.653,Morning (6-11 AM),Q4 largest
+139441,Photo,Product,12,5,3,Unpaid,2549,4896,137,5,10,152,False,False,False,152,5.963,Overnight (12-5 AM),Q4 largest
+138414,Photo,Product,12,4,5,Paid,22784,39941,577,2,20,599,False,False,False,599,2.629,Overnight (12-5 AM),Q4 largest
+138414,Status,Product,12,3,10,Unpaid,10060,19680,86,4,18,108,False,False,False,108,1.074,Morning (6-11 AM),Q4 largest
+138414,Photo,Inspiration,12,3,3,Unpaid,1722,2981,40,2,12,54,False,False,False,54,3.136,Overnight (12-5 AM),Q4 largest
+138414,Photo,Action,12,2,12,Paid,53264,111785,678,15,20,713,False,False,False,713,1.339,Afternoon (12-5 PM),Q4 largest
+138414,Status,Inspiration,12,2,3,Unpaid,3930,7509,54,4,17,75,False,False,False,75,1.908,Overnight (12-5 AM),Q4 largest
+138414,Photo,Inspiration,12,1,11,Unpaid,1591,2825,34,0,8,42,False,False,False,42,2.64,Morning (6-11 AM),Q4 largest
+138414,Photo,Product,12,1,3,Unpaid,2848,5066,66,3,12,81,False,False,False,81,2.844,Overnight (12-5 AM),Q4 largest
+138414,Photo,Action,12,7,10,Unpaid,1384,2467,0,0,0,0,False,False,False,0,0.0,Morning (6-11 AM),Q4 largest
+138414,Link,Action,12,7,10,Unpaid,3454,6853,16,0,2,18,False,False,False,18,0.521,Morning (6-11 AM),Q4 largest
+138414,Photo,Inspiration,12,7,3,Unpaid,2723,4888,72,0,24,96,False,False,False,96,3.526,Overnight (12-5 AM),Q4 largest
+138414,Status,Product,12,6,10,Unpaid,8488,15294,99,3,19,121,False,False,False,121,1.426,Morning (6-11 AM),Q4 largest
+138458,Status,Product,12,6,3,Unpaid,8284,15104,88,0,18,106,False,False,False,106,1.28,Overnight (12-5 AM),Q4 largest
+138458,Status,Product,12,5,11,Unpaid,19552,34143,412,10,72,494,False,False,False,494,2.527,Morning (6-11 AM),Q4 largest
+138458,Photo,Inspiration,12,5,3,Unpaid,2478,4306,100,0,17,117,False,False,False,117,4.722,Overnight (12-5 AM),Q4 largest
+138895,Photo,Product,12,5,3,Unpaid,9560,18264,523,36,63,622,False,False,False,622,6.506,Overnight (12-5 AM),Q4 largest
+138895,Video,Action,12,4,11,Paid,36208,61262,143,18,13,174,False,False,False,174,0.481,Morning (6-11 AM),Q4 largest
+138895,Photo,Product,12,4,2,Unpaid,4940,9390,107,33,22,162,False,False,False,162,3.279,Overnight (12-5 AM),Q4 largest
+138895,Photo,Product,12,3,10,Unpaid,1683,2929,27,1,11,39,False,False,False,39,2.317,Morning (6-11 AM),Q4 largest
+138895,Photo,Inspiration,12,3,3,Unpaid,5280,9578,155,2,47,204,False,False,False,204,3.864,Overnight (12-5 AM),Q4 largest
+138895,Photo,Inspiration,12,2,9,Unpaid,3002,5318,98,4,23,125,False,False,False,125,4.164,Morning (6-11 AM),Q4 largest
+138895,Photo,Action,12,2,3,Unpaid,3766,7149,56,2,17,75,False,False,False,75,1.992,Overnight (12-5 AM),Q4 largest
+138895,Photo,Product,12,1,11,Unpaid,4512,7808,172,6,21,199,False,False,False,199,4.41,Morning (6-11 AM),Q4 largest
+138895,Photo,Inspiration,12,1,3,Unpaid,2690,4628,96,0,17,113,False,False,False,113,4.201,Overnight (12-5 AM),Q4 largest
+138895,Photo,Action,12,7,10,Paid,19800,28663,76,16,8,100,False,False,False,100,0.505,Morning (6-11 AM),Q4 largest
+138895,Status,Product,12,7,9,Unpaid,17576,33058,227,11,31,269,False,False,False,269,1.53,Morning (6-11 AM),Q4 largest
+138895,Photo,Action,12,7,3,Unpaid,3290,6085,44,1,14,59,False,False,False,59,1.793,Overnight (12-5 AM),Q4 largest
+138895,Status,Product,12,6,11,Unpaid,13280,24198,216,7,39,262,False,False,False,262,1.973,Morning (6-11 AM),Q4 largest
+138895,Link,Action,12,6,3,Paid,18480,28438,187,6,18,211,False,False,False,211,1.142,Overnight (12-5 AM),Q4 largest
+138353,Photo,Action,12,5,10,Unpaid,7268,13989,26,7,3,36,False,False,False,36,0.495,Morning (6-11 AM),Q4 largest
+138353,Link,Action,12,5,3,Paid,2645,4270,29,7,10,46,False,False,False,46,1.739,Overnight (12-5 AM),Q4 largest
+138353,Photo,Action,12,4,11,Unpaid,4284,8387,47,0,11,58,False,False,False,58,1.354,Morning (6-11 AM),Q4 largest
+138353,Link,Action,12,4,3,Paid,7968,13023,57,4,10,71,False,False,False,71,0.891,Overnight (12-5 AM),Q4 largest
+138353,Status,Action,12,3,11,Unpaid,16576,30612,174,4,36,214,False,False,False,214,1.291,Morning (6-11 AM),Q4 largest
+138353,Link,Action,12,3,2,Unpaid,1925,3481,18,6,8,32,False,False,False,32,1.662,Overnight (12-5 AM),Q4 largest
+138353,Photo,Action,12,2,11,Unpaid,3786,7329,77,0,15,92,False,False,False,92,2.43,Morning (6-11 AM),Q4 largest
+138353,Link,Action,12,2,2,Unpaid,1536,3094,12,1,1,14,False,False,False,14,0.911,Overnight (12-5 AM),Q4 largest
+138353,Photo,Product,11,1,9,Unpaid,1728,3155,48,1,9,58,False,False,False,58,3.356,Morning (6-11 AM),Q4 largest
+138329,Photo,Action,11,1,3,Paid,25248,40125,285,24,28,337,False,False,False,337,1.335,Overnight (12-5 AM),Q4 largest
+138329,Photo,Action,11,7,9,Unpaid,4894,8899,202,9,31,242,False,False,False,242,4.945,Morning (6-11 AM),Q4 largest
+138329,Photo,Action,11,7,3,Unpaid,2935,5439,64,4,19,87,False,False,False,87,2.964,Overnight (12-5 AM),Q4 largest
+138329,Photo,Action,11,6,10,Unpaid,2425,4462,66,4,13,83,False,False,False,83,3.423,Morning (6-11 AM),Q4 largest
+138329,Video,Action,11,6,2,Paid,16416,31950,65,2,14,81,False,False,False,81,0.493,Overnight (12-5 AM),Q4 largest
+138329,Photo,Action,11,5,11,Unpaid,5812,10465,164,2,54,220,False,False,False,220,3.785,Morning (6-11 AM),Q4 largest
+138329,Photo,Action,11,5,3,Unpaid,2545,4846,40,0,13,53,False,False,False,53,2.083,Overnight (12-5 AM),Q4 largest
+138329,Photo,Action,11,4,10,Unpaid,2257,4372,76,3,11,90,False,False,False,90,3.988,Morning (6-11 AM),Q4 largest
+138329,Photo,Action,11,4,3,Paid,27072,84885,139,4,17,160,False,False,False,160,0.591,Overnight (12-5 AM),Q4 largest
+138185,Photo,Action,11,3,11,Paid,10940,27951,101,8,14,123,False,False,False,123,1.124,Morning (6-11 AM),Q4 largest
+138185,Photo,Action,11,3,2,Paid,50912,164528,144,8,10,162,False,False,False,162,0.318,Overnight (12-5 AM),Q4 largest
+138185,Photo,Action,11,2,10,Paid,28752,47358,179,10,13,202,False,False,False,202,0.703,Morning (6-11 AM),Q4 largest
+138185,Photo,Action,11,2,3,Paid,27216,81908,219,4,22,245,False,False,False,245,0.9,Overnight (12-5 AM),Q4 largest
+138185,Photo,Action,11,1,10,Unpaid,2352,5234,60,2,7,69,False,False,False,69,2.934,Morning (6-11 AM),Q4 largest
+138185,Photo,Action,11,1,3,Unpaid,3416,6167,77,19,23,119,False,False,False,119,3.484,Overnight (12-5 AM),Q4 largest
+138185,Photo,Action,11,7,11,Unpaid,2149,4120,48,0,7,55,False,False,False,55,2.559,Morning (6-11 AM),Q4 largest
+138185,Photo,Action,11,7,3,Paid,53456,93790,697,20,70,787,False,False,False,787,1.472,Overnight (12-5 AM),Q4 largest
+138185,Photo,Action,11,6,11,Unpaid,2168,3891,53,0,17,70,False,False,False,70,3.229,Morning (6-11 AM),Q4 largest
+137893,Photo,Action,11,6,3,Unpaid,3102,5939,84,7,28,119,False,False,False,119,3.836,Overnight (12-5 AM),Q4 largest
+137893,Photo,Action,11,5,10,Paid,39344,103050,146,7,9,162,False,False,False,162,0.412,Morning (6-11 AM),Q4 largest
+137893,Video,Action,11,5,3,Paid,100768,220447,449,17,84,550,False,False,False,550,0.546,Overnight (12-5 AM),Q4 largest
+137893,Status,Inspiration,11,4,11,Unpaid,9056,16362,226,3,44,273,False,False,False,273,3.015,Morning (6-11 AM),Q4 largest
+137893,Photo,Action,11,4,2,Paid,11444,46054,172,14,47,233,False,False,False,233,2.036,Overnight (12-5 AM),Q4 largest
+137893,Video,Action,11,3,11,Unpaid,13544,30235,99,2,13,114,False,False,False,114,0.842,Morning (6-11 AM),Q4 largest
+137893,Photo,Action,11,3,2,Paid,37376,68610,411,20,74,505,False,False,False,505,1.351,Overnight (12-5 AM),Q4 largest
+137893,Photo,Action,11,3,2,Unpaid,1228,2392,0,0,0,0,False,False,False,0,0.0,Overnight (12-5 AM),Q4 largest
+137177,Photo,Action,11,1,10,Unpaid,22984,59040,85,4,8,97,False,False,False,97,0.422,Morning (6-11 AM),Q4 largest
+137177,Photo,Product,11,1,3,Unpaid,1445,2774,56,0,8,64,False,False,False,64,4.429,Overnight (12-5 AM),Q4 largest
+137177,Photo,Action,11,7,12,Unpaid,3754,8533,29,2,7,38,False,False,False,38,1.012,Afternoon (12-5 PM),Q4 largest
+137177,Status,Product,11,7,3,Unpaid,8728,17827,86,2,13,101,False,False,False,101,1.157,Overnight (12-5 AM),Q4 largest
+137177,Photo,Inspiration,11,6,10,Unpaid,5990,11123,370,18,53,441,False,False,False,441,7.362,Morning (6-11 AM),Q4 largest
+137177,Photo,Action,11,6,3,Unpaid,4582,9193,190,5,57,252,False,False,False,252,5.5,Overnight (12-5 AM),Q4 largest
+137177,Photo,Inspiration,11,5,10,Paid,2938,5799,101,2,19,122,False,False,False,122,4.152,Morning (6-11 AM),Q4 largest
+137177,Status,Inspiration,11,5,2,Unpaid,6692,13092,99,2,16,117,False,False,False,117,1.748,Overnight (12-5 AM),Q4 largest
+137177,Photo,Action,11,4,9,Paid,2566,5244,140,10,8,158,False,False,False,158,6.157,Morning (6-11 AM),Q4 largest
+137177,Link,Action,11,4,3,Unpaid,21176,54779,130,2,31,163,False,False,False,163,0.77,Overnight (12-5 AM),Q4 largest
+137177,Photo,Inspiration,11,3,10,Unpaid,4012,7955,270,3,38,311,False,False,False,311,7.752,Morning (6-11 AM),Q4 largest
+137177,Photo,Action,11,3,3,Unpaid,1531,2838,30,3,6,39,False,False,False,39,2.547,Overnight (12-5 AM),Q4 largest
+137059,Photo,Action,11,2,11,Paid,2938,6056,107,2,17,126,False,False,False,126,4.289,Morning (6-11 AM),Q4 largest
+137059,Photo,Action,11,2,3,Unpaid,24720,37240,331,13,77,421,False,False,False,421,1.703,Overnight (12-5 AM),Q4 largest
+137059,Photo,Product,11,1,9,Unpaid,2219,4545,78,0,13,91,False,False,False,91,4.101,Morning (6-11 AM),Q4 largest
+137059,Photo,Inspiration,11,1,3,Unpaid,4732,9303,301,9,32,342,False,False,False,342,7.227,Overnight (12-5 AM),Q4 largest
+137059,Photo,Inspiration,11,7,9,Unpaid,2225,4239,111,2,16,129,False,False,False,129,5.798,Morning (6-11 AM),Q4 largest
+137059,Photo,Product,11,7,4,Unpaid,2626,4943,124,2,22,148,False,False,False,148,5.636,Overnight (12-5 AM),Q4 largest
+137059,Photo,Inspiration,10,6,10,Unpaid,3090,5744,153,5,27,185,False,False,False,185,5.987,Morning (6-11 AM),Q4 largest
+137059,Photo,Action,10,6,3,Unpaid,1101,2548,51,3,11,65,False,False,False,65,5.904,Overnight (12-5 AM),Q4 largest
+137059,Photo,Product,10,5,11,Unpaid,2819,5230,115,1,26,142,False,False,False,142,5.037,Morning (6-11 AM),Q4 largest
+137020,Status,Product,10,5,3,Paid,12468,24917,310,7,61,378,False,False,False,378,3.032,Overnight (12-5 AM),Q4 largest
+137020,Photo,Action,10,4,10,Unpaid,12776,21893,328,12,90,430,False,False,False,430,3.366,Morning (6-11 AM),Q4 largest
+137020,Photo,Action,10,4,9,Paid,1357,2453,0,0,0,0,False,False,False,0,0.0,Morning (6-11 AM),Q4 largest
+137020,Photo,Product,10,4,3,Unpaid,68896,104952,1505,26,95,1626,False,False,False,1626,2.36,Overnight (12-5 AM),Q4 largest
+137020,Photo,Inspiration,10,3,10,Unpaid,1711,3174,63,2,14,79,False,False,False,79,4.617,Morning (6-11 AM),Q4 largest
+137020,Photo,Action,10,3,4,Unpaid,1388,2544,13,0,4,17,False,False,False,17,1.225,Overnight (12-5 AM),Q4 largest
+137020,Photo,Action,10,2,11,Paid,2645,5472,59,4,9,72,False,False,False,72,2.722,Morning (6-11 AM),Q4 largest
+137020,Photo,Action,10,2,4,Unpaid,70144,111745,955,42,139,1136,False,False,False,1136,1.62,Overnight (12-5 AM),Q4 largest
+137020,Photo,Inspiration,10,1,11,Unpaid,3674,7221,181,9,32,222,False,False,False,222,6.042,Morning (6-11 AM),Q4 largest
+136736,Status,Product,10,1,4,Unpaid,9504,19556,193,17,28,238,False,False,False,238,2.504,Overnight (12-5 AM),Q4 largest
+136736,Photo,Inspiration,10,7,9,Unpaid,2426,4469,125,7,16,148,False,False,False,148,6.101,Morning (6-11 AM),Q4 largest
+136736,Status,Product,10,7,3,Unpaid,13872,27468,217,4,50,271,False,False,False,271,1.954,Overnight (12-5 AM),Q4 largest
+136736,Photo,Action,10,6,10,Unpaid,1673,3655,28,2,4,34,False,False,False,34,2.032,Morning (6-11 AM),Q4 largest
+136736,Photo,Action,10,6,8,Unpaid,1261,2158,0,0,0,0,False,False,False,0,0.0,Morning (6-11 AM),Q4 largest
+136736,Photo,Product,10,6,4,Unpaid,2428,4510,117,4,18,139,False,False,False,139,5.725,Overnight (12-5 AM),Q4 largest
+136642,Photo,Product,10,1,3,Paid,2227,4070,79,2,16,97,False,False,False,97,4.356,Overnight (12-5 AM),Q4 largest
+136642,Photo,Action,10,7,13,Unpaid,1592,2749,15,0,2,17,False,False,False,17,1.068,Afternoon (12-5 PM),Q4 largest
+136642,Photo,Action,10,7,12,Paid,813,1568,4,0,2,6,False,False,False,6,0.738,Afternoon (12-5 PM),Q4 largest
+136642,Photo,Action,10,7,12,Unpaid,32208,57472,431,1,26,458,False,False,False,458,1.422,Afternoon (12-5 PM),Q4 largest
+136642,Photo,Action,10,7,11,Unpaid,729,1374,7,0,0,7,False,False,False,7,0.96,Morning (6-11 AM),Q4 largest
+136642,Photo,Action,10,7,10,Unpaid,834,1570,7,0,2,9,False,False,False,9,1.079,Morning (6-11 AM),Q4 largest
+136393,Photo,Action,10,7,10,Unpaid,786,1573,6,0,2,8,False,False,False,8,1.018,Morning (6-11 AM),Q3
+136393,Photo,Action,10,7,9,Unpaid,584,1029,2,0,0,2,True,False,True,2,0.342,Morning (6-11 AM),Q3
+136393,Status,Product,10,7,9,Unpaid,15816,30514,186,6,40,232,False,False,False,232,1.467,Morning (6-11 AM),Q3
+136393,Photo,Action,10,7,8,Unpaid,619,1096,1,1,2,4,False,False,False,4,0.646,Morning (6-11 AM),Q3
+136393,Photo,Action,10,7,7,Unpaid,617,1071,3,1,2,6,True,False,True,6,0.972,Morning (6-11 AM),Q3
+136393,Photo,Action,10,7,6,Unpaid,677,1285,7,0,0,7,False,False,False,7,1.034,Morning (6-11 AM),Q3
+136393,Photo,Action,10,7,5,Unpaid,677,1240,7,0,2,9,False,False,False,9,1.329,Overnight (12-5 AM),Q3
+136393,Photo,Inspiration,10,7,3,Unpaid,3366,6647,198,3,41,242,False,False,False,242,7.19,Overnight (12-5 AM),Q3
+136393,Photo,Action,10,6,13,Unpaid,747,1443,9,0,1,10,False,False,False,10,1.339,Afternoon (12-5 PM),Q3
+136393,Photo,Action,10,6,13,Unpaid,645,1117,4,0,1,5,False,False,False,5,0.775,Afternoon (12-5 PM),Q3
+136393,Photo,Action,10,6,12,Unpaid,754,1510,3,0,0,3,False,False,False,3,0.398,Afternoon (12-5 PM),Q3
+136393,Photo,Action,10,6,11,Unpaid,910,1673,8,0,2,10,False,False,False,10,1.099,Morning (6-11 AM),Q3
+136393,Photo,Action,10,6,9,Unpaid,3906,8239,7,0,3,10,False,False,False,10,0.256,Morning (6-11 AM),Q3
+136393,Photo,Action,10,6,9,Unpaid,659,1158,7,1,2,10,False,False,False,10,1.517,Morning (6-11 AM),Q3
+136393,Photo,Action,10,6,8,Unpaid,652,1331,11,0,1,12,False,False,False,12,1.84,Morning (6-11 AM),Q3
+136393,Photo,Action,10,6,6,Unpaid,861,1565,28,2,4,34,False,False,False,34,3.949,Morning (6-11 AM),Q3
+136393,Photo,Action,10,6,2,Unpaid,3690,7659,56,0,12,68,False,False,False,68,1.843,Overnight (12-5 AM),Q3
+136393,Link,Action,10,5,10,Unpaid,4664,9463,32,0,16,48,False,False,False,48,1.029,Morning (6-11 AM),Q3
+136013,Photo,Action,10,5,8,Unpaid,1080,2427,32,4,3,39,False,False,False,39,3.611,Morning (6-11 AM),Q3
+136013,Status,Product,10,5,3,Unpaid,8896,17202,129,0,25,154,False,False,False,154,1.731,Overnight (12-5 AM),Q3
+136013,Photo,Action,10,4,10,Paid,4018,8617,77,4,19,100,False,False,False,100,2.489,Morning (6-11 AM),Q3
+136013,Link,Action,10,4,3,Unpaid,68992,229733,143,15,44,202,False,False,False,202,0.293,Overnight (12-5 AM),Q3
+136013,Status,Inspiration,10,3,10,Unpaid,13152,25666,227,2,36,265,False,False,False,265,2.015,Morning (6-11 AM),Q3
+136013,Status,Product,10,3,2,Paid,31136,59964,859,60,90,1009,False,False,False,1009,3.241,Overnight (12-5 AM),Q3
+136013,Photo,Inspiration,10,2,10,Paid,16776,39549,377,10,60,447,False,False,False,447,2.665,Morning (6-11 AM),Q3
+136013,Photo,Action,10,2,3,Paid,50736,140432,41,3,9,53,False,False,False,53,0.104,Overnight (12-5 AM),Q3
+136013,Photo,Action,10,1,10,Paid,5324,11040,76,6,14,96,False,False,False,96,1.803,Morning (6-11 AM),Q3
+136013,Photo,Inspiration,10,1,3,Unpaid,18120,44940,189,0,15,204,False,False,False,204,1.126,Overnight (12-5 AM),Q3
+135713,Photo,Inspiration,10,7,10,Unpaid,2291,3960,80,0,14,94,False,False,False,94,4.103,Morning (6-11 AM),Q3
+135713,Status,Product,10,7,4,Unpaid,10744,20691,148,3,28,179,False,False,False,179,1.666,Overnight (12-5 AM),Q3
+135713,Link,Action,10,6,11,Paid,3616,6887,24,0,11,35,False,False,False,35,0.968,Morning (6-11 AM),Q3
+135713,Photo,Action,10,6,4,Unpaid,39984,112830,302,24,41,367,False,False,False,367,0.918,Overnight (12-5 AM),Q3
+135713,Photo,Product,10,5,11,Unpaid,4010,7444,166,2,32,200,False,False,False,200,4.988,Morning (6-11 AM),Q3
+135713,Photo,Product,10,5,4,Paid,6564,12097,358,47,49,454,False,False,False,454,6.917,Overnight (12-5 AM),Q3
+135713,Photo,Action,10,4,10,Unpaid,8612,20151,161,7,25,193,False,False,False,193,2.241,Morning (6-11 AM),Q3
+135713,Photo,Product,10,4,1,Unpaid,5568,10282,319,13,55,387,False,False,False,387,6.95,Overnight (12-5 AM),Q3
+135700,Photo,Product,9,3,7,Unpaid,1685,2999,54,0,16,70,False,False,False,70,4.154,Morning (6-11 AM),Q3
+135700,Photo,Product,9,2,11,Unpaid,3756,7094,117,16,30,163,False,False,False,163,4.34,Morning (6-11 AM),Q3
+135700,Photo,Inspiration,9,2,2,Unpaid,2656,4862,115,1,21,137,False,False,False,137,5.158,Overnight (12-5 AM),Q3
+135700,Photo,Product,9,1,10,Unpaid,5086,9493,187,30,35,252,False,False,False,252,4.955,Morning (6-11 AM),Q3
+135617,Photo,Product,9,1,3,Paid,2055,3915,84,1,13,98,False,False,False,98,4.769,Overnight (12-5 AM),Q3
+135617,Photo,Inspiration,9,7,9,Unpaid,9384,14948,363,6,40,409,False,False,False,409,4.358,Morning (6-11 AM),Q3
+135617,Photo,Product,9,7,3,Unpaid,3992,7255,244,6,32,282,False,False,False,282,7.064,Overnight (12-5 AM),Q3
+135617,Photo,Inspiration,9,6,10,Unpaid,7512,13633,290,22,98,410,False,False,False,410,5.458,Morning (6-11 AM),Q3
+135617,Status,Product,9,6,4,Unpaid,11096,21080,243,4,41,288,False,False,False,288,2.596,Overnight (12-5 AM),Q3
+135428,Photo,Action,9,5,10,Unpaid,1060,2004,18,0,0,18,False,False,False,18,1.698,Morning (6-11 AM),Q3
+135428,Photo,Product,9,5,3,Paid,2790,4879,113,0,19,132,False,False,False,132,4.731,Overnight (12-5 AM),Q3
+135428,Photo,Action,9,4,10,Paid,13856,37716,77,2,5,84,False,False,False,84,0.606,Morning (6-11 AM),Q3
+135428,Photo,Inspiration,9,4,2,Paid,10748,19724,485,8,64,557,False,False,False,557,5.182,Overnight (12-5 AM),Q3
+135428,Photo,Action,9,3,10,Unpaid,41984,68290,1622,144,208,1974,False,False,False,1974,4.702,Morning (6-11 AM),Q3
+135428,Photo,Product,9,3,2,Paid,2522,4583,99,6,16,121,False,False,False,121,4.798,Overnight (12-5 AM),Q3
+135195,Photo,Inspiration,9,2,9,Unpaid,4480,8039,188,3,26,217,False,False,False,217,4.844,Morning (6-11 AM),Q3
+135195,Photo,Action,9,2,2,Unpaid,1543,2874,30,2,6,38,False,False,False,38,2.463,Overnight (12-5 AM),Q3
+135195,Status,Product,9,1,10,Unpaid,21256,41906,163,38,27,228,False,False,False,228,1.073,Morning (6-11 AM),Q3
+135195,Photo,Action,9,1,4,Unpaid,4484,7829,179,6,40,225,False,False,False,225,5.018,Overnight (12-5 AM),Q3
+135195,Photo,Product,9,7,3,Unpaid,4398,8105,204,5,34,243,False,False,False,243,5.525,Overnight (12-5 AM),Q3
+135195,Status,Product,9,6,10,Paid,13216,24738,165,2,22,189,False,False,False,189,1.43,Morning (6-11 AM),Q3
+135195,Photo,Inspiration,9,6,3,Paid,22304,37159,1047,29,98,1174,False,False,False,1174,5.264,Overnight (12-5 AM),Q3
+135195,Photo,Action,9,5,11,Unpaid,6208,10830,234,2,40,276,False,False,False,276,4.446,Morning (6-11 AM),Q3
+135195,Photo,Product,9,5,2,Unpaid,4518,8533,250,7,42,299,False,False,False,299,6.618,Overnight (12-5 AM),Q3
+135195,Photo,Product,9,4,10,Unpaid,3582,6518,154,4,36,194,False,False,False,194,5.416,Morning (6-11 AM),Q3
+134879,Status,Product,9,4,4,Paid,9124,17776,150,20,29,199,False,False,False,199,2.181,Overnight (12-5 AM),Q3
+134879,Photo,Action,9,3,10,Unpaid,14152,38806,102,4,8,114,False,False,False,114,0.806,Morning (6-11 AM),Q3
+134879,Photo,Inspiration,9,3,2,Paid,4260,7989,226,1,44,271,False,False,False,271,6.362,Overnight (12-5 AM),Q3
+134879,Video,Action,9,2,10,Unpaid,30624,56950,345,6,121,472,False,False,False,472,1.541,Morning (6-11 AM),Q3
+134879,Photo,Product,9,2,3,Unpaid,2363,4223,68,11,11,90,False,False,False,90,3.809,Overnight (12-5 AM),Q3
+134879,Photo,Action,9,1,10,Unpaid,2232,4005,62,0,10,72,False,False,False,72,3.226,Morning (6-11 AM),Q3
+134879,Photo,Product,9,1,6,Unpaid,4048,7217,223,5,35,263,False,False,False,263,6.497,Morning (6-11 AM),Q3
+134879,Photo,Product,9,7,10,Unpaid,1804,2968,61,0,6,67,False,False,False,67,3.714,Morning (6-11 AM),Q3
+134879,Photo,Inspiration,9,7,4,Paid,2351,4028,104,1,12,117,False,False,False,117,4.977,Overnight (12-5 AM),Q3
+133679,Photo,Product,9,2,10,Unpaid,3100,5388,146,3,15,164,False,False,False,164,5.29,Morning (6-11 AM),Q3
+133679,Photo,Inspiration,9,2,3,Paid,2360,4004,102,2,15,119,False,False,False,119,5.042,Overnight (12-5 AM),Q3
+133679,Photo,Inspiration,8,1,10,Unpaid,19648,33643,766,9,43,818,False,False,False,818,4.163,Morning (6-11 AM),Q3
+133679,Photo,Product,8,1,4,Unpaid,2295,3721,63,0,7,70,False,False,False,70,3.05,Overnight (12-5 AM),Q3
+133594,Photo,Product,8,7,10,Paid,3934,6330,113,3,17,133,False,False,False,133,3.381,Morning (6-11 AM),Q3
+133594,Photo,Action,8,7,3,Unpaid,34512,76659,442,6,42,490,False,False,False,490,1.42,Overnight (12-5 AM),Q3
+133594,Photo,Product,8,6,10,Unpaid,5282,8730,278,9,43,330,False,False,False,330,6.248,Morning (6-11 AM),Q3
+133594,Photo,Action,8,6,8,Unpaid,1809,3130,64,2,7,73,False,False,False,73,4.035,Morning (6-11 AM),Q3
+133594,Photo,Product,8,5,13,Unpaid,1920,3124,52,1,7,60,False,False,False,60,3.125,Afternoon (12-5 PM),Q3
+133451,Photo,Action,8,4,9,Paid,1954,3530,30,0,2,32,False,False,False,32,1.638,Morning (6-11 AM),Q3
+132817,Photo,Inspiration,8,4,10,Unpaid,33536,64850,1155,33,102,1290,False,False,False,1290,3.847,Morning (6-11 AM),Q3
+132817,Photo,Product,8,4,3,Paid,4204,7191,139,2,25,166,False,False,False,166,3.949,Overnight (12-5 AM),Q3
+132817,Photo,Action,8,3,9,Unpaid,3376,6557,40,0,5,45,False,False,False,45,1.333,Morning (6-11 AM),Q3
+132817,Status,Product,8,3,2,Paid,9236,16054,53,2,15,70,False,False,False,70,0.758,Overnight (12-5 AM),Q3
+132817,Photo,Inspiration,8,2,10,Unpaid,72864,205934,220,4,19,243,False,False,False,243,0.333,Morning (6-11 AM),Q3
+132817,Photo,Inspiration,8,2,3,Unpaid,3358,5682,114,2,16,132,False,False,False,132,3.931,Overnight (12-5 AM),Q3
+132201,Photo,Action,8,1,12,Paid,3254,5644,39,0,3,42,False,False,False,42,1.291,Afternoon (12-5 PM),Q3
+132201,Photo,Action,8,1,3,Unpaid,50640,121234,859,4,68,931,False,False,False,931,1.838,Overnight (12-5 AM),Q3
+132201,Photo,Product,8,7,10,Unpaid,3734,6218,137,5,20,162,False,False,False,162,4.339,Morning (6-11 AM),Q3
+132201,Photo,Inspiration,8,7,3,Unpaid,2594,4220,54,1,11,66,False,False,False,66,2.544,Overnight (12-5 AM),Q3
+132201,Photo,Product,8,6,10,Paid,2232,3772,74,2,22,98,False,False,False,98,4.391,Morning (6-11 AM),Q3
+132201,Photo,Inspiration,8,6,3,Paid,22120,54734,98,6,3,107,False,False,False,107,0.484,Overnight (12-5 AM),Q3
+132201,Photo,Inspiration,8,5,10,Unpaid,7980,12978,264,2,21,287,False,False,False,287,3.596,Morning (6-11 AM),Q3
+132201,Photo,Product,8,5,1,Unpaid,1659,2845,36,3,11,50,False,False,False,50,3.014,Overnight (12-5 AM),Q3
+132201,Photo,Inspiration,8,4,11,Paid,1006,1594,11,1,3,15,False,False,False,15,1.491,Morning (6-11 AM),Q3
+132201,Photo,Inspiration,8,4,3,Paid,12728,21685,435,4,31,470,False,False,False,470,3.693,Overnight (12-5 AM),Q3
+131956,Photo,Action,8,3,10,Unpaid,28880,64746,114,2,10,126,False,False,False,126,0.436,Morning (6-11 AM),Q3
+131956,Photo,Product,8,3,4,Unpaid,1330,2327,17,2,9,28,False,False,False,28,2.105,Overnight (12-5 AM),Q3
+131956,Status,Product,8,2,12,Unpaid,14424,26000,15,41,1,57,False,False,False,57,0.395,Afternoon (12-5 PM),Q3
+131956,Photo,Action,8,2,7,Unpaid,14200,26728,87,3,10,100,False,False,False,100,0.704,Morning (6-11 AM),Q3
+131956,Photo,Inspiration,8,1,12,Unpaid,5746,9874,227,16,28,271,False,False,False,271,4.716,Afternoon (12-5 PM),Q3
+131956,Photo,Product,8,1,4,Unpaid,2540,4372,86,2,8,96,False,False,False,96,3.78,Overnight (12-5 AM),Q3
+131956,Photo,Inspiration,8,7,10,Unpaid,4324,7241,179,6,27,212,False,False,False,212,4.903,Morning (6-11 AM),Q3
+131808,Status,Product,8,7,4,Unpaid,8260,14305,74,1,11,86,False,False,False,86,1.041,Overnight (12-5 AM),Q3
+131808,Status,Product,8,6,10,Paid,20168,35904,332,18,54,404,False,False,False,404,2.003,Morning (6-11 AM),Q3
+131808,Photo,Action,8,6,6,Unpaid,5046,9084,80,2,21,103,False,False,False,103,2.041,Morning (6-11 AM),Q3
+131808,Status,Product,7,5,14,Unpaid,15296,25269,95,9,17,121,False,False,False,121,0.791,Afternoon (12-5 PM),Q3
+131728,Photo,Inspiration,7,5,8,Paid,3414,6369,188,3,26,217,False,False,False,217,6.356,Morning (6-11 AM),Q3
+131728,Photo,Action,7,4,10,Paid,95424,252207,109,6,11,126,False,False,False,126,0.132,Morning (6-11 AM),Q3
+131728,Photo,Product,7,4,3,Unpaid,14824,21863,367,64,25,456,False,False,False,456,3.076,Overnight (12-5 AM),Q3
+131630,Photo,Product,7,3,13,Unpaid,3504,5699,102,9,19,130,False,False,False,130,3.71,Afternoon (12-5 PM),Q3
+131630,Photo,Inspiration,7,2,23,Unpaid,2822,5058,113,2,20,135,False,False,False,135,4.784,Evening (6-11 PM),Q3
+131630,Photo,Inspiration,7,2,13,Unpaid,2973,5063,94,0,20,114,False,False,False,114,3.835,Afternoon (12-5 PM),Q3
+131630,Status,Product,7,2,6,Paid,10824,20573,14,6,1,21,False,False,False,21,0.194,Morning (6-11 AM),Q3
+131630,Photo,Action,7,1,11,Unpaid,4592,6691,43,1,10,54,False,False,False,54,1.176,Morning (6-11 AM),Q3
+131630,Photo,Product,7,1,5,Unpaid,3176,5278,98,1,21,120,False,False,False,120,3.778,Overnight (12-5 AM),Q3
+131300,Status,Product,7,7,10,Unpaid,10956,19279,13,3,1,17,False,False,False,17,0.155,Morning (6-11 AM),Q3
+131300,Photo,Inspiration,7,7,4,Unpaid,10888,19744,237,12,45,294,False,False,False,294,2.7,Overnight (12-5 AM),Q3
+131300,Photo,Product,7,6,10,Unpaid,3594,6316,112,4,23,139,False,False,False,139,3.868,Morning (6-11 AM),Q3
+131300,Photo,Action,7,6,2,Unpaid,3384,6166,101,2,25,128,False,False,False,128,3.783,Overnight (12-5 AM),Q3
+130791,Photo,Product,7,5,11,Paid,4096,7200,145,10,31,186,False,False,False,186,4.541,Morning (6-11 AM),Q3
+130791,Photo,Inspiration,7,5,3,Unpaid,19968,35161,535,6,83,624,False,False,False,624,3.125,Overnight (12-5 AM),Q3
+130791,Photo,Action,7,4,11,Unpaid,4892,8499,118,4,22,144,False,False,False,144,2.944,Morning (6-11 AM),Q3
+130791,Status,Product,7,4,6,Unpaid,17360,33613,484,9,79,572,False,False,False,572,3.295,Morning (6-11 AM),Q3
+130791,Video,Action,7,3,11,Paid,21872,40413,315,18,76,409,False,False,False,409,1.87,Morning (6-11 AM),Q3
+130791,Photo,Product,7,3,5,Paid,180480,319133,5172,372,790,6334,False,False,False,6334,3.51,Overnight (12-5 AM),Q3
+130791,Photo,Action,7,2,13,Unpaid,44464,66824,154,4,30,188,False,False,False,188,0.423,Afternoon (12-5 PM),Q3
+130791,Photo,Product,7,2,8,Unpaid,2881,5188,73,0,15,88,False,False,False,88,3.054,Morning (6-11 AM),Q3
+129600,Photo,Product,7,1,12,Unpaid,3460,6503,96,0,19,115,False,False,False,115,3.324,Afternoon (12-5 PM),Q2
+129600,Photo,Inspiration,7,1,6,Unpaid,3406,5656,98,1,19,118,False,False,False,118,3.464,Morning (6-11 AM),Q2
+129600,Photo,Product,7,7,11,Paid,2602,4349,53,1,14,68,False,False,False,68,2.613,Morning (6-11 AM),Q2
+129600,Photo,Action,7,7,6,Paid,5848,9068,71,4,10,85,False,False,False,85,1.453,Morning (6-11 AM),Q2
+129600,Photo,Action,7,6,11,Unpaid,26944,43464,194,6,34,234,False,False,False,234,0.868,Morning (6-11 AM),Q2
+129600,Photo,Inspiration,7,6,5,Unpaid,5292,9321,226,6,42,274,False,False,False,274,5.178,Overnight (12-5 AM),Q2
+129600,Status,Product,7,5,12,Paid,15576,27513,238,11,51,300,False,False,False,300,1.926,Afternoon (12-5 PM),Q2
+129600,Photo,Inspiration,7,5,3,Unpaid,54256,82011,755,10,58,823,False,False,False,823,1.517,Overnight (12-5 AM),Q2
+129600,Photo,Product,7,4,12,Paid,3726,6372,47,30,8,85,False,False,False,85,2.281,Afternoon (12-5 PM),Q2
+129600,Photo,Action,7,4,6,Paid,31904,50539,126,2,32,160,False,False,False,160,0.502,Morning (6-11 AM),Q2
+129600,Photo,Action,7,3,13,Paid,40336,65309,104,4,10,118,False,False,False,118,0.293,Afternoon (12-5 PM),Q2
+129600,Photo,Product,7,3,1,Unpaid,4220,7774,167,10,26,203,False,False,False,203,4.81,Overnight (12-5 AM),Q2
+129600,Photo,Inspiration,7,2,13,Unpaid,4666,8360,152,9,41,202,False,False,False,202,4.329,Afternoon (12-5 PM),Q2
+129600,Photo,Product,7,2,7,Paid,4274,7948,128,0,15,143,False,False,False,143,3.346,Morning (6-11 AM),Q2
+129600,Photo,Action,7,1,13,Unpaid,28208,41650,234,13,43,290,False,False,False,290,1.028,Afternoon (12-5 PM),Q2
+128032,Photo,Product,7,1,3,Unpaid,3330,5461,61,2,16,79,False,False,False,79,2.372,Overnight (12-5 AM),Q2
+128032,Photo,Product,7,7,11,Paid,3528,5918,66,0,9,75,False,False,False,75,2.126,Morning (6-11 AM),Q2
+128032,Photo,Inspiration,7,7,3,Unpaid,38576,55398,529,7,60,596,False,False,False,596,1.545,Overnight (12-5 AM),Q2
+128032,Photo,Inspiration,7,6,13,Paid,2628,4264,42,3,10,55,False,False,False,55,2.093,Afternoon (12-5 PM),Q2
+128032,Photo,Action,7,6,3,Unpaid,7232,12735,75,2,24,101,False,False,False,101,1.397,Overnight (12-5 AM),Q2
+128032,Status,Product,7,5,10,Unpaid,10188,16978,61,13,13,87,False,False,False,87,0.854,Morning (6-11 AM),Q2
+128032,Photo,Action,7,5,3,Unpaid,6408,11881,162,26,7,195,False,False,False,195,3.043,Overnight (12-5 AM),Q2
+128032,Photo,Action,7,4,9,Paid,3414,6050,47,2,4,53,False,False,False,53,1.552,Morning (6-11 AM),Q2
+128032,Photo,Product,7,4,5,Paid,53056,65260,696,6,28,730,False,False,False,730,1.376,Overnight (12-5 AM),Q2
+128032,Photo,Action,7,3,10,Paid,66976,111502,215,7,47,269,False,False,False,269,0.402,Morning (6-11 AM),Q2
+127082,Photo,Action,7,3,3,Paid,76096,94644,534,22,31,587,False,False,False,587,0.771,Overnight (12-5 AM),Q2
+126424,Photo,Inspiration,7,4,12,Unpaid,5458,9098,143,1,27,171,False,False,False,171,3.133,Afternoon (12-5 PM),Q2
+126424,Photo,Product,7,4,3,Unpaid,3706,6194,46,18,7,71,False,False,False,71,1.916,Overnight (12-5 AM),Q2
+126424,Status,Product,7,3,13,Unpaid,18320,31448,98,36,14,148,False,False,False,148,0.808,Afternoon (12-5 PM),Q2
+126424,Photo,Inspiration,7,3,4,Paid,2316,3611,25,0,5,30,False,False,False,30,1.295,Overnight (12-5 AM),Q2
+126424,Video,Action,6,2,13,Unpaid,139008,277100,204,23,44,271,False,False,False,271,0.195,Afternoon (12-5 PM),Q2
+126345,Photo,Action,6,2,9,Paid,5854,11854,202,11,5,218,False,False,False,218,3.724,Morning (6-11 AM),Q2
+126345,Photo,Action,6,2,3,Unpaid,109056,191324,148,7,39,194,False,False,False,194,0.178,Overnight (12-5 AM),Q2
+126345,Photo,Product,6,1,12,Unpaid,3212,4908,40,1,8,49,False,False,False,49,1.526,Afternoon (12-5 PM),Q2
+126345,Photo,Product,6,1,4,Unpaid,3046,4909,71,1,17,89,False,False,False,89,2.922,Overnight (12-5 AM),Q2
+126345,Status,Product,6,7,11,Unpaid,12044,20327,104,0,13,117,False,False,False,117,0.971,Morning (6-11 AM),Q2
+126141,Photo,Action,6,7,4,Paid,9652,16968,34,1,4,39,False,False,False,39,0.404,Overnight (12-5 AM),Q2
+126141,Photo,Action,6,6,12,Unpaid,28112,47721,129,11,12,152,False,False,False,152,0.541,Afternoon (12-5 PM),Q2
+126141,Status,Product,6,6,4,Unpaid,8628,14847,72,4,18,94,False,False,False,94,1.089,Overnight (12-5 AM),Q2
+126141,Photo,Action,6,5,11,Paid,2431,4180,15,0,3,18,False,False,False,18,0.74,Morning (6-11 AM),Q2
+126141,Photo,Action,6,4,22,Paid,20560,24112,102,14,9,125,False,False,False,125,0.608,Evening (6-11 PM),Q2
+126141,Photo,Action,6,4,12,Unpaid,20896,29062,469,103,33,605,False,False,False,605,2.895,Afternoon (12-5 PM),Q2
+125612,Photo,Action,6,4,11,Unpaid,2402,4072,57,5,5,67,False,False,False,67,2.789,Morning (6-11 AM),Q2
+125612,Photo,Action,6,4,7,Unpaid,1729,3289,23,0,2,25,False,False,False,25,1.446,Morning (6-11 AM),Q2
+125612,Photo,Product,6,4,3,Unpaid,4320,7127,141,5,26,172,False,False,False,172,3.981,Overnight (12-5 AM),Q2
+125612,Photo,Action,6,3,11,Unpaid,2585,4410,19,0,5,24,False,False,False,24,0.928,Morning (6-11 AM),Q2
+125612,Photo,Product,6,3,3,Unpaid,3322,5969,71,1,23,95,False,False,False,95,2.86,Overnight (12-5 AM),Q2
+125612,Photo,Action,6,2,13,Unpaid,3600,5807,72,0,21,93,False,False,False,93,2.583,Afternoon (12-5 PM),Q2
+125612,Photo,Action,6,2,2,Unpaid,11620,21564,54,5,7,66,False,False,False,66,0.568,Overnight (12-5 AM),Q2
+125612,Photo,Inspiration,6,1,14,Unpaid,4248,7004,93,5,19,117,False,False,False,117,2.754,Afternoon (12-5 PM),Q2
+125612,Photo,Inspiration,6,1,3,Unpaid,2763,4388,62,0,10,72,False,False,False,72,2.606,Overnight (12-5 AM),Q2
+125612,Photo,Product,6,7,11,Unpaid,3558,5396,78,0,16,94,False,False,False,94,2.642,Morning (6-11 AM),Q2
+124940,Photo,Action,6,7,4,Unpaid,8324,14480,14,0,1,15,False,False,False,15,0.18,Overnight (12-5 AM),Q2
+124940,Photo,Product,6,6,9,Unpaid,6952,11469,231,11,43,285,False,False,False,285,4.1,Morning (6-11 AM),Q2
+124940,Photo,Inspiration,6,6,2,Paid,2823,4955,72,1,16,89,False,False,False,89,3.153,Overnight (12-5 AM),Q2
+124940,Photo,Action,6,5,13,Paid,63840,102620,197,9,28,234,False,False,False,234,0.367,Afternoon (12-5 PM),Q2
+124940,Photo,Inspiration,6,5,3,Paid,11608,15323,330,4,29,363,False,False,False,363,3.127,Overnight (12-5 AM),Q2
+124940,Photo,Action,6,4,12,Unpaid,58304,80871,148,0,7,155,False,False,False,155,0.266,Afternoon (12-5 PM),Q2
+124940,Photo,Inspiration,6,4,2,Unpaid,4762,8303,208,2,28,238,False,False,False,238,4.998,Overnight (12-5 AM),Q2
+124940,Photo,Product,6,3,13,Unpaid,6150,10217,148,12,28,188,False,False,False,188,3.057,Afternoon (12-5 PM),Q2
+124940,Photo,Inspiration,6,3,3,Paid,4644,8178,154,4,26,184,False,False,False,184,3.962,Overnight (12-5 AM),Q2
+124940,Photo,Inspiration,6,2,13,Unpaid,22464,29650,142,3,18,163,False,False,False,163,0.726,Afternoon (12-5 PM),Q2
+124940,Photo,Inspiration,6,2,3,Unpaid,3754,6295,107,8,20,135,False,False,False,135,3.596,Overnight (12-5 AM),Q2
+124940,Photo,Action,6,1,13,Unpaid,4452,7998,22,0,3,25,False,False,False,25,0.562,Afternoon (12-5 PM),Q2
+124940,Photo,Inspiration,6,1,3,Unpaid,3576,5525,84,2,13,99,False,False,False,99,2.768,Overnight (12-5 AM),Q2
+124940,Photo,Inspiration,6,7,10,Unpaid,3028,4794,59,2,12,73,False,False,False,73,2.411,Morning (6-11 AM),Q2
+124940,Photo,Inspiration,6,7,3,Paid,4022,6503,65,3,14,82,False,False,False,82,2.039,Overnight (12-5 AM),Q2
+124940,Photo,Action,6,6,12,Paid,52736,73584,24,0,4,28,False,False,False,28,0.053,Afternoon (12-5 PM),Q2
+124940,Photo,Inspiration,6,6,4,Unpaid,47376,70212,186,9,23,218,False,False,False,218,0.46,Overnight (12-5 AM),Q2
+123047,Photo,Inspiration,6,5,12,Unpaid,3234,5113,58,0,17,75,False,False,False,75,2.319,Afternoon (12-5 PM),Q2
+123047,Photo,Product,6,5,3,Unpaid,3322,5553,74,2,14,90,False,False,False,90,2.709,Overnight (12-5 AM),Q2
+123047,Photo,Inspiration,6,4,13,Unpaid,6768,11525,180,2,44,226,False,False,False,226,3.339,Afternoon (12-5 PM),Q2
+123047,Photo,Product,6,4,5,Paid,11304,20647,168,18,49,235,False,False,False,235,2.079,Overnight (12-5 AM),Q2
+123047,Photo,Action,6,3,11,Unpaid,13544,18474,36,0,5,41,False,False,False,41,0.303,Morning (6-11 AM),Q2
+123047,Photo,Inspiration,6,2,13,Unpaid,3418,5659,51,2,6,59,False,False,False,59,1.726,Afternoon (12-5 PM),Q2
+123047,Photo,Inspiration,6,2,5,Paid,3662,6476,67,2,14,83,False,False,False,83,2.267,Overnight (12-5 AM),Q2
+123047,Photo,Inspiration,6,1,10,Unpaid,56672,104966,1372,20,47,1439,False,False,False,1439,2.539,Morning (6-11 AM),Q2
+123047,Photo,Inspiration,6,1,3,Paid,3294,5499,57,2,6,65,False,False,False,65,1.973,Overnight (12-5 AM),Q2
+121540,Photo,Inspiration,6,1,3,Unpaid,3110,5405,33,2,10,45,False,False,False,45,1.447,Overnight (12-5 AM),Q2
+121540,Photo,Product,5,7,14,Unpaid,3806,6486,79,1,17,97,False,False,False,97,2.549,Afternoon (12-5 PM),Q2
+120050,Photo,Inspiration,5,5,9,Paid,3776,6736,97,3,22,122,False,False,False,122,3.231,Morning (6-11 AM),Q2
+120050,Photo,Inspiration,5,4,12,Unpaid,39040,55633,617,16,58,691,False,False,False,691,1.77,Afternoon (12-5 PM),Q2
+120050,Photo,Inspiration,5,4,4,Paid,4032,7278,139,7,34,180,False,False,False,180,4.464,Overnight (12-5 AM),Q2
+120050,Photo,Inspiration,5,3,12,Unpaid,21248,34095,199,20,32,251,False,False,False,251,1.181,Afternoon (12-5 PM),Q2
+119198,Photo,Inspiration,5,3,5,Unpaid,4344,8025,107,1,26,134,False,False,False,134,3.085,Overnight (12-5 AM),Q2
+119198,Photo,Inspiration,5,2,12,Unpaid,2718,4698,50,0,10,60,False,False,False,60,2.208,Afternoon (12-5 PM),Q2
+119198,Photo,Inspiration,5,2,1,Unpaid,3024,5630,64,0,20,84,False,False,False,84,2.778,Overnight (12-5 AM),Q2
+119198,Status,Product,5,1,2,Unpaid,10152,17099,55,2,10,67,False,False,False,67,0.66,Overnight (12-5 AM),Q2
+119198,Photo,Product,5,7,2,Unpaid,4708,8090,142,1,37,180,False,False,False,180,3.823,Overnight (12-5 AM),Q2
+119198,Photo,Inspiration,5,6,14,Unpaid,2772,4642,72,2,9,83,False,False,False,83,2.994,Afternoon (12-5 PM),Q2
+119198,Photo,Inspiration,5,6,6,Unpaid,2812,4954,79,4,16,99,False,False,False,99,3.521,Morning (6-11 AM),Q2
+119198,Photo,Inspiration,5,5,10,Paid,6460,11373,244,25,44,313,False,False,False,313,4.845,Morning (6-11 AM),Q2
+117764,Photo,Action,5,4,10,Unpaid,18056,32576,307,25,58,390,False,False,False,390,2.16,Morning (6-11 AM),Q2
+117764,Photo,Inspiration,5,4,4,Unpaid,5016,8745,212,6,36,254,False,False,False,254,5.064,Overnight (12-5 AM),Q2
+117764,Photo,Inspiration,5,3,11,Unpaid,3528,6181,95,2,17,114,False,False,False,114,3.231,Morning (6-11 AM),Q2
+117764,Photo,Product,5,2,11,Unpaid,6444,11509,194,5,33,232,False,False,False,232,3.6,Morning (6-11 AM),Q2
+117764,Photo,Inspiration,5,1,13,Paid,4458,7753,101,6,29,136,False,False,False,136,3.051,Afternoon (12-5 PM),Q2
+117764,Link,Action,5,1,2,Unpaid,12540,19301,46,3,14,63,False,False,False,63,0.502,Overnight (12-5 AM),Q2
+117764,Photo,Inspiration,5,7,13,Paid,4362,7378,156,3,20,179,False,False,False,179,4.104,Afternoon (12-5 PM),Q2
+117764,Photo,Inspiration,5,7,2,Unpaid,38960,65149,821,37,90,948,False,False,False,948,2.433,Overnight (12-5 AM),Q2
+117764,Photo,Inspiration,5,6,13,Unpaid,3144,5067,58,1,13,72,False,False,False,72,2.29,Afternoon (12-5 PM),Q2
+117764,Photo,Inspiration,5,6,8,Paid,4336,7705,155,12,23,190,False,False,False,190,4.382,Morning (6-11 AM),Q2
+117764,Photo,Inspiration,5,5,13,Unpaid,81856,124753,1639,45,122,1806,False,False,False,1806,2.206,Afternoon (12-5 PM),Q2
+116435,Photo,Product,5,5,9,Unpaid,5728,10164,155,3,32,190,False,False,False,190,3.317,Morning (6-11 AM),Q2
+116435,Photo,Inspiration,5,4,13,Paid,5490,9518,166,4,33,203,False,False,False,203,3.698,Afternoon (12-5 PM),Q2
+116435,Status,Action,5,4,3,Paid,23832,42313,210,6,39,255,False,False,False,255,1.07,Overnight (12-5 AM),Q2
+116435,Photo,Inspiration,5,3,7,Unpaid,18552,25542,400,4,25,429,False,False,False,429,2.312,Morning (6-11 AM),Q2
+116435,Photo,Product,5,2,14,Unpaid,4132,7165,98,2,18,118,False,False,False,118,2.856,Afternoon (12-5 PM),Q2
+116435,Photo,Action,5,2,8,Unpaid,4910,9209,138,12,38,188,False,False,False,188,3.829,Morning (6-11 AM),Q2
+116435,Photo,Inspiration,5,1,13,Unpaid,4202,7633,148,3,16,167,False,False,False,167,3.974,Afternoon (12-5 PM),Q2
+116091,Photo,Product,5,1,3,Unpaid,5976,10441,267,2,40,309,False,False,False,309,5.171,Overnight (12-5 AM),Q2
+116091,Photo,Product,5,7,14,Unpaid,5206,8962,144,1,29,174,False,False,False,174,3.342,Afternoon (12-5 PM),Q2
+116091,Photo,Inspiration,5,7,2,Unpaid,6984,12066,256,25,54,335,False,False,False,335,4.797,Overnight (12-5 AM),Q2
+116091,Photo,Action,5,6,9,Unpaid,6000,10300,72,3,24,99,False,False,False,99,1.65,Morning (6-11 AM),Q2
+116091,Photo,Inspiration,5,6,3,Unpaid,3332,5797,87,0,18,105,False,False,False,105,3.151,Overnight (12-5 AM),Q2
+116091,Status,Product,5,5,7,Unpaid,9232,16811,129,1,36,166,False,False,False,166,1.798,Morning (6-11 AM),Q2
+115893,Photo,Inspiration,4,4,15,Paid,5212,9035,179,1,30,210,False,False,False,210,4.029,Afternoon (12-5 PM),Q2
+115893,Photo,Action,4,3,13,Unpaid,24264,51899,194,9,33,236,False,False,False,236,0.973,Afternoon (12-5 PM),Q2
+115368,Photo,Inspiration,4,3,8,Unpaid,4280,7594,124,1,32,157,False,False,False,157,3.668,Morning (6-11 AM),Q2
+115368,Photo,Inspiration,4,2,13,Unpaid,6692,11859,304,4,47,355,False,False,False,355,5.305,Afternoon (12-5 PM),Q2
+115368,Photo,Inspiration,4,2,2,Paid,5594,9586,138,12,39,189,False,False,False,189,3.379,Overnight (12-5 AM),Q2
+115368,Photo,Action,4,1,2,Unpaid,11336,15350,41,4,9,54,False,False,False,54,0.476,Overnight (12-5 AM),Q2
+113028,Photo,Product,4,7,3,Paid,5582,9903,163,2,35,200,False,False,False,200,3.583,Overnight (12-5 AM),Q2
+113028,Photo,Action,4,6,14,Unpaid,28352,55202,407,45,76,528,False,False,False,528,1.862,Afternoon (12-5 PM),Q2
+113028,Status,Product,4,6,3,Paid,17912,34774,447,17,123,587,False,False,False,587,3.277,Overnight (12-5 AM),Q2
+113028,Link,Action,4,5,7,Paid,35360,45260,38,7,11,56,False,False,False,56,0.158,Morning (6-11 AM),Q2
+113028,Photo,Action,4,5,5,Unpaid,9084,15194,93,2,26,121,False,False,False,121,1.332,Overnight (12-5 AM),Q2
+113028,Photo,Action,4,4,12,Paid,6880,11736,59,0,16,75,False,False,False,75,1.09,Afternoon (12-5 PM),Q2
+111620,Photo,Inspiration,4,4,7,Paid,12824,18929,286,0,30,316,False,False,False,316,2.464,Morning (6-11 AM),Q1 smallest
+111620,Photo,Inspiration,4,3,7,Unpaid,6596,9835,66,0,13,79,False,False,False,79,1.198,Morning (6-11 AM),Q1 smallest
+111620,Photo,Inspiration,4,2,13,Paid,7492,12414,236,8,51,295,False,False,False,295,3.938,Afternoon (12-5 PM),Q1 smallest
+111620,Photo,Action,4,2,6,Paid,44288,60918,152,2,11,165,False,False,False,165,0.373,Morning (6-11 AM),Q1 smallest
+111620,Photo,Inspiration,4,1,14,Paid,105632,147918,1998,51,128,2177,False,False,False,2177,2.061,Afternoon (12-5 PM),Q1 smallest
+111620,Photo,Action,4,7,14,Unpaid,128064,251269,186,8,18,212,False,False,False,212,0.166,Afternoon (12-5 PM),Q1 smallest
+109670,Photo,Inspiration,4,6,20,Unpaid,5994,9970,235,11,34,280,False,False,False,280,4.671,Evening (6-11 PM),Q1 smallest
+109670,Photo,Action,4,6,13,Unpaid,6172,10417,64,1,22,87,False,False,False,87,1.41,Afternoon (12-5 PM),Q1 smallest
+109670,Photo,Inspiration,4,6,3,Unpaid,4986,8198,92,2,28,122,False,False,False,122,2.447,Overnight (12-5 AM),Q1 smallest
+109670,Photo,Action,4,5,13,Unpaid,6668,10701,53,3,13,69,False,False,False,69,1.035,Afternoon (12-5 PM),Q1 smallest
+109670,Photo,Inspiration,4,5,7,Paid,5298,8875,140,5,38,183,False,False,False,183,3.454,Morning (6-11 AM),Q1 smallest
+109670,Photo,Action,4,4,3,Unpaid,35008,45508,48,0,8,56,False,False,False,56,0.16,Overnight (12-5 AM),Q1 smallest
+109670,Photo,Action,4,3,13,Paid,5402,8891,112,0,14,126,False,False,False,126,2.332,Afternoon (12-5 PM),Q1 smallest
+109670,Photo,Action,4,3,8,Unpaid,9880,12695,35,0,5,40,False,False,False,40,0.405,Morning (6-11 AM),Q1 smallest
+109670,Photo,Action,4,2,13,Unpaid,3334,5953,37,4,3,44,False,False,False,44,1.32,Afternoon (12-5 PM),Q1 smallest
+109670,Photo,Inspiration,4,2,2,Paid,3130,5313,48,0,14,62,False,False,False,62,1.981,Overnight (12-5 AM),Q1 smallest
+109670,Photo,Product,4,1,13,Paid,32208,55696,766,6,109,881,False,False,False,881,2.735,Afternoon (12-5 PM),Q1 smallest
+109670,Photo,Action,4,1,2,Unpaid,20920,26026,96,1,18,115,False,False,False,115,0.55,Overnight (12-5 AM),Q1 smallest
+109670,Photo,Inspiration,4,7,14,Unpaid,3884,6406,57,1,13,71,False,False,False,71,1.828,Afternoon (12-5 PM),Q1 smallest
+107907,Photo,Inspiration,4,7,13,Unpaid,4240,7057,114,3,21,138,False,False,False,138,3.255,Afternoon (12-5 PM),Q1 smallest
+107907,Photo,Action,4,6,9,Unpaid,3544,6156,51,1,6,58,False,False,False,58,1.637,Morning (6-11 AM),Q1 smallest
+107907,Photo,Inspiration,4,6,3,Paid,3286,6276,87,1,27,115,False,False,False,115,3.5,Overnight (12-5 AM),Q1 smallest
+107907,Photo,Action,4,5,9,Unpaid,71360,110172,81,5,11,97,False,False,False,97,0.136,Morning (6-11 AM),Q1 smallest
+107907,Photo,Inspiration,4,5,3,Unpaid,3824,6333,71,1,18,90,False,False,False,90,2.354,Overnight (12-5 AM),Q1 smallest
+107907,Photo,Inspiration,4,4,13,Unpaid,6360,11079,164,9,52,225,False,False,False,225,3.538,Afternoon (12-5 PM),Q1 smallest
+107907,Photo,Inspiration,4,4,5,Paid,3714,6385,91,5,26,122,False,False,False,122,3.285,Overnight (12-5 AM),Q1 smallest
+107907,Photo,Action,4,3,13,Paid,46192,80227,329,9,38,376,False,False,False,376,0.814,Afternoon (12-5 PM),Q1 smallest
+107907,Photo,Action,4,3,4,Paid,39568,47128,128,4,17,149,False,False,False,149,0.377,Overnight (12-5 AM),Q1 smallest
+107907,Link,Action,4,2,6,Unpaid,70912,94172,379,1,40,420,False,False,False,420,0.592,Morning (6-11 AM),Q1 smallest
+107907,Photo,Inspiration,4,1,3,Unpaid,4552,7253,52,1,24,77,False,False,False,77,1.692,Overnight (12-5 AM),Q1 smallest
+107907,Photo,Inspiration,4,7,10,Unpaid,4390,7004,63,1,26,90,False,False,False,90,2.05,Morning (6-11 AM),Q1 smallest
+107907,Photo,Inspiration,4,7,3,Unpaid,4770,7716,97,2,25,124,False,False,False,124,2.6,Overnight (12-5 AM),Q1 smallest
+106928,Photo,Inspiration,4,6,9,Paid,2970,4649,56,2,9,67,False,False,False,67,2.256,Morning (6-11 AM),Q1 smallest
+106928,Link,Action,4,6,4,Unpaid,34192,42092,36,1,7,44,False,False,False,44,0.129,Overnight (12-5 AM),Q1 smallest
+106928,Photo,Product,4,5,13,Unpaid,5302,8769,138,4,26,168,False,False,False,168,3.169,Afternoon (12-5 PM),Q1 smallest
+106928,Photo,Product,4,5,3,Unpaid,5560,9301,142,7,24,173,False,False,False,173,3.112,Overnight (12-5 AM),Q1 smallest
+106928,Photo,Inspiration,4,4,13,Unpaid,4406,6769,75,1,15,91,False,False,False,91,2.065,Afternoon (12-5 PM),Q1 smallest
+106928,Photo,Action,4,4,3,Paid,5290,8132,89,1,14,104,False,False,False,104,1.966,Overnight (12-5 AM),Q1 smallest
+104070,Photo,Action,3,5,14,Paid,3696,5824,63,2,16,81,False,False,False,81,2.192,Afternoon (12-5 PM),Q1 smallest
+104070,Photo,Action,3,4,14,Paid,6030,9579,176,3,29,208,False,False,False,208,3.449,Afternoon (12-5 PM),Q1 smallest
+104070,Photo,Action,3,4,7,Unpaid,49632,1110282,227,7,15,249,False,False,False,249,0.502,Morning (6-11 AM),Q1 smallest
+104070,Status,Action,3,3,15,Unpaid,9120,14759,25,3,6,34,False,False,False,34,0.373,Afternoon (12-5 PM),Q1 smallest
+104070,Photo,Action,3,3,10,Unpaid,1874,2474,0,0,0,0,False,False,False,0,0.0,Morning (6-11 AM),Q1 smallest
+102112,Photo,Action,3,3,10,Unpaid,4122,7073,27,1,11,39,False,False,False,39,0.946,Morning (6-11 AM),Q1 smallest
+102112,Photo,Action,3,3,4,Unpaid,5080,8238,39,0,14,53,False,False,False,53,1.043,Overnight (12-5 AM),Q1 smallest
+102112,Photo,Action,3,2,12,Unpaid,4068,7333,61,0,13,74,False,False,False,74,1.819,Afternoon (12-5 PM),Q1 smallest
+102112,Photo,Action,3,2,3,Unpaid,3272,6079,32,0,7,39,False,False,False,39,1.192,Overnight (12-5 AM),Q1 smallest
+102112,Photo,Action,3,1,19,Unpaid,238,570,2,0,0,2,True,False,True,2,0.84,Evening (6-11 PM),Q1 smallest
+102112,Photo,Action,3,1,18,Unpaid,3358,5900,109,8,3,120,False,False,False,120,3.574,Evening (6-11 PM),Q1 smallest
+102112,Photo,Action,3,1,18,Unpaid,6400,11941,32,0,6,38,False,False,False,38,0.594,Evening (6-11 PM),Q1 smallest
+102112,Link,Inspiration,3,1,3,Unpaid,6876,10885,68,2,15,85,False,False,False,85,1.236,Overnight (12-5 AM),Q1 smallest
+100732,Photo,Action,3,7,18,Unpaid,391,746,6,0,1,7,True,False,True,7,1.79,Evening (6-11 PM),Q1 smallest
+100732,Photo,Action,3,7,17,Unpaid,10844,22468,213,4,13,230,False,False,False,230,2.121,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,7,15,Unpaid,5132,9067,2,0,0,2,False,False,False,2,0.039,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,7,15,Unpaid,3772,6971,3,0,0,3,False,False,False,3,0.08,Afternoon (12-5 PM),Q1 smallest
+100732,Link,Action,3,7,14,Unpaid,2933,5144,6,0,0,6,False,False,False,6,0.205,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,7,12,Unpaid,4094,7469,4,0,0,4,False,False,False,4,0.098,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,6,17,Unpaid,452,726,4,0,1,5,True,False,True,5,1.106,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,6,17,Unpaid,11420,23855,211,12,14,237,False,False,False,237,2.075,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,6,15,Unpaid,5704,10510,15,1,1,17,False,False,False,17,0.298,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,6,15,Unpaid,7192,12811,95,11,4,110,False,False,False,110,1.529,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,6,13,Paid,9604,16557,127,16,0,143,False,False,False,143,1.489,Afternoon (12-5 PM),Q1 smallest
+100732,Photo,Action,3,6,10,Unpaid,122944,457509,136,0,13,149,False,False,False,149,0.121,Morning (6-11 AM),Q1 smallest
+98195,Link,Product,3,6,6,Unpaid,5730,10083,32,2,15,49,False,False,False,49,0.855,Morning (6-11 AM),Q1 smallest
+98195,Photo,Action,3,6,3,Unpaid,4898,7960,76,1,9,86,False,False,False,86,1.756,Overnight (12-5 AM),Q1 smallest
+98195,Photo,Action,3,5,10,Unpaid,4118,7355,28,1,7,36,False,False,False,36,0.874,Morning (6-11 AM),Q1 smallest
+98195,Photo,Action,3,5,4,Paid,1845,2670,0,0,0,0,False,False,False,0,0.0,Overnight (12-5 AM),Q1 smallest
+98195,Photo,Inspiration,3,4,13,Unpaid,34480,191207,664,10,97,771,False,False,False,771,2.236,Afternoon (12-5 PM),Q1 smallest
+96749,Photo,Inspiration,3,2,9,Unpaid,5338,9940,62,1,10,73,False,False,False,73,1.368,Morning (6-11 AM),Q1 smallest
+96749,Photo,Product,3,2,5,Unpaid,5312,9411,48,0,20,68,False,False,False,68,1.28,Overnight (12-5 AM),Q1 smallest
+96749,Photo,Action,3,1,13,Paid,4412,8070,55,1,7,63,False,False,False,63,1.428,Afternoon (12-5 PM),Q1 smallest
+96749,Photo,Action,3,1,2,Paid,98816,125026,197,10,21,228,False,False,False,228,0.231,Overnight (12-5 AM),Q1 smallest
+96749,Photo,Action,3,7,10,Paid,7220,12735,88,6,24,118,False,False,False,118,1.634,Morning (6-11 AM),Q1 smallest
+96749,Photo,Action,3,7,5,Paid,14320,21958,59,2,6,67,False,False,False,67,0.468,Overnight (12-5 AM),Q1 smallest
+93684,Photo,Action,2,6,13,Paid,27056,162816,234,6,26,266,False,False,False,266,0.983,Afternoon (12-5 PM),Q1 smallest
+93577,Photo,Action,2,6,6,Unpaid,20528,33000,148,3,21,172,False,False,False,172,0.838,Morning (6-11 AM),Q1 smallest
+93470,Photo,Action,2,5,12,Unpaid,6416,11459,96,0,29,125,False,False,False,125,1.948,Afternoon (12-5 PM),Q1 smallest
+93363,Photo,Action,2,5,6,Unpaid,5786,10634,49,4,15,68,False,False,False,68,1.175,Morning (6-11 AM),Q1 smallest
+93256,Photo,Inspiration,2,4,12,Unpaid,5878,10508,98,3,27,128,False,False,False,128,2.178,Afternoon (12-5 PM),Q1 smallest
+93149,Photo,Inspiration,2,4,3,Unpaid,9528,16535,198,14,70,282,False,False,False,282,2.96,Overnight (12-5 AM),Q1 smallest
+93042,Photo,Inspiration,2,3,13,Unpaid,8500,14157,159,5,53,217,False,False,False,217,2.553,Afternoon (12-5 PM),Q1 smallest
+92935,Photo,Action,2,3,9,Paid,3796,6737,22,1,6,29,False,False,False,29,0.764,Morning (6-11 AM),Q1 smallest
+92828,Photo,Action,2,3,6,Unpaid,28128,42940,154,6,18,178,False,False,False,178,0.633,Morning (6-11 AM),Q1 smallest
+92721,Photo,Inspiration,2,2,13,Unpaid,7228,12627,128,5,32,165,False,False,False,165,2.283,Afternoon (12-5 PM),Q1 smallest
+92614,Photo,Product,2,2,3,Paid,5290,9100,129,2,32,163,False,False,False,163,3.081,Overnight (12-5 AM),Q1 smallest
+92507,Photo,Inspiration,2,1,13,Unpaid,55520,665792,1546,146,181,1873,False,False,False,1873,3.374,Afternoon (12-5 PM),Q1 smallest
+92400,Photo,Action,2,1,4,Unpaid,5880,10115,79,5,11,95,False,False,False,95,1.616,Overnight (12-5 AM),Q1 smallest
+92293,Photo,Inspiration,2,7,13,Paid,10040,17029,214,19,78,311,False,False,False,311,3.098,Afternoon (12-5 PM),Q1 smallest
+92186,Photo,Inspiration,2,7,2,Paid,153536,497910,134,8,34,176,False,False,False,176,0.115,Overnight (12-5 AM),Q1 smallest
+92079,Photo,Action,2,6,13,Unpaid,158208,453213,268,9,36,313,False,False,False,313,0.198,Afternoon (12-5 PM),Q1 smallest
+91972,Photo,Inspiration,2,6,3,Unpaid,6484,10832,128,4,38,170,False,False,False,170,2.622,Overnight (12-5 AM),Q1 smallest
+91865,Photo,Product,2,5,13,Paid,4840,7466,47,3,21,71,False,False,False,71,1.467,Afternoon (12-5 PM),Q1 smallest
+91758,Photo,Product,2,5,3,Paid,15880,51571,200,1,37,238,False,False,False,238,1.499,Overnight (12-5 AM),Q1 smallest
+91651,Photo,Action,2,4,12,Unpaid,15288,31467,264,5,36,305,False,False,False,305,1.995,Afternoon (12-5 PM),Q1 smallest
+91544,Photo,Inspiration,2,4,3,Unpaid,9528,16779,193,10,61,264,False,False,False,264,2.771,Overnight (12-5 AM),Q1 smallest
+91437,Link,Action,2,3,13,Unpaid,9356,14986,114,4,13,131,False,False,False,131,1.4,Afternoon (12-5 PM),Q1 smallest
+91330,Photo,Inspiration,2,3,3,Unpaid,7732,13264,160,7,57,224,False,False,False,224,2.897,Overnight (12-5 AM),Q1 smallest
+91223,Photo,Action,2,2,13,Unpaid,5240,8893,46,0,15,61,False,False,False,61,1.164,Afternoon (12-5 PM),Q1 smallest
+91116,Photo,Inspiration,2,2,4,Paid,7132,12060,136,4,42,182,False,False,False,182,2.552,Overnight (12-5 AM),Q1 smallest
+91009,Photo,Action,2,1,12,Unpaid,21928,39641,73,0,13,86,False,False,False,86,0.392,Afternoon (12-5 PM),Q1 smallest
+86909,Photo,Inspiration,1,6,16,Paid,5754,9238,65,0,19,84,False,False,False,84,1.46,Afternoon (12-5 PM),Q1 smallest
+86909,Photo,Action,1,6,10,Paid,37088,10966,579,7,47,633,False,True,True,633,1.707,Morning (6-11 AM),Q1 smallest
+86909,Link,Action,1,6,4,Unpaid,39600,7927,101,1,5,107,False,True,True,107,0.27,Overnight (12-5 AM),Q1 smallest
+86909,Photo,Inspiration,1,5,13,Unpaid,5536,8745,74,1,31,106,False,False,False,106,1.915,Afternoon (12-5 PM),Q1 smallest
+86909,Photo,Inspiration,1,5,4,Unpaid,6056,10325,84,7,36,127,False,False,False,127,2.097,Overnight (12-5 AM),Q1 smallest
+86909,Photo,Product,1,4,11,Unpaid,11484,20696,360,56,99,515,False,False,False,515,4.485,Morning (6-11 AM),Q1 smallest
+86491,Link,Action,1,4,4,Paid,4938,7910,5,0,2,7,False,False,False,7,0.142,Overnight (12-5 AM),Q1 smallest
+86491,Photo,Inspiration,1,3,10,Unpaid,66784,9456,187,3,36,226,False,True,True,226,0.338,Morning (6-11 AM),Q1 smallest
+86491,Photo,Product,1,3,3,Unpaid,5526,8779,69,2,26,97,False,False,False,97,1.755,Overnight (12-5 AM),Q1 smallest
+86491,Photo,Inspiration,1,2,7,Unpaid,5040,8367,82,2,24,108,False,False,False,108,2.143,Morning (6-11 AM),Q1 smallest
+86491,Link,Action,1,2,2,Unpaid,5168,8371,12,0,2,14,False,False,False,14,0.271,Overnight (12-5 AM),Q1 smallest
+85979,Photo,Inspiration,1,1,12,Unpaid,5034,8030,56,2,25,83,False,False,False,83,1.649,Afternoon (12-5 PM),Q1 smallest
+85979,Photo,Inspiration,1,1,2,Unpaid,4908,7491,44,1,21,66,False,False,False,66,1.345,Overnight (12-5 AM),Q1 smallest
+85979,Photo,Inspiration,1,7,10,Unpaid,9700,17442,277,21,80,378,False,False,False,378,3.897,Morning (6-11 AM),Q1 smallest
+85979,Photo,Inspiration,1,7,2,Unpaid,4800,7754,74,1,28,103,False,False,False,103,2.146,Overnight (12-5 AM),Q1 smallest
+85979,Photo,Inspiration,1,6,11,Unpaid,5280,8703,79,1,30,110,False,False,False,110,2.083,Morning (6-11 AM),Q1 smallest
+85979,Photo,Inspiration,1,6,3,Paid,6184,10228,105,1,46,152,False,False,False,152,2.458,Overnight (12-5 AM),Q1 smallest
+85979,Link,Action,1,5,11,Unpaid,45920,5808,128,0,9,137,False,True,True,137,0.298,Morning (6-11 AM),Q1 smallest
+85093,Photo,Inspiration,1,1,2,Unpaid,8412,13960,185,17,55,257,False,False,False,257,3.055,Overnight (12-5 AM),Q1 smallest
+85093,Photo,Inspiration,1,7,10,Unpaid,5400,9218,125,10,41,176,False,False,False,176,3.259,Morning (6-11 AM),Q1 smallest
+85093,Photo,Inspiration,1,7,2,Unpaid,4684,7536,53,5,26,84,False,False,False,84,1.793,Overnight (12-5 AM),Q1 smallest
+81370,Photo,Product,1,5,8,Unpaid,3480,6229,53,0,22,75,False,False,False,75,2.155,Morning (6-11 AM),Q1 smallest
+81370,Photo,Action,1,5,2,Unpaid,3778,7216,93,4,18,115,False,False,False,115,3.044,Overnight (12-5 AM),Q1 smallest
+81370,Photo,Inspiration,1,4,11,Unpaid,4156,7564,91,7,38,136,False,False,False,136,3.272,Morning (6-11 AM),Q1 smallest
+81370,Photo,Product,1,4,4,,4188,7292,91,0,28,119,False,False,False,119,2.841,Overnight (12-5 AM),Q1 smallest

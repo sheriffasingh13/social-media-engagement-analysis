@@ -1,0 +1,85 @@
+Rows, columns: (500, 19)
+Blanks before cleaning: {'paid': 1, 'likes': 1, 'shares': 4}
+Total = likes + comments + shares in every complete row: True
+Values filled in: {'likes': [0.0], 'shares': [0.0, 0.0, 0.0, 0.0]}
+Exact duplicate rows: 0
+Reach of zero: 0
+Low-reach cutoff (1st percentile): 618.98
+Low-reach posts: 5
+Reach > impressions: 4
+Saved data/cleaned/facebook_metrics_cleaned.csv (500, 20)
+
+== format
+format  posts  median
+  Link     22    0.68
+ Photo    426    2.45
+Status     45    1.53
+ Video      7    0.55
+
+== format_unflagged
+format  posts  median
+  Link     20    0.81
+ Photo    419    2.47
+Status     45    1.53
+ Video      7    0.55
+
+== time_block
+         time_block  posts  median
+Afternoon (12-5 PM)    104    1.82
+  Evening (6-11 PM)      7    1.79
+  Morning (6-11 AM)    193    2.15
+Overnight (12-5 AM)    196    2.45
+
+== time_block_unflagged
+         time_block  posts  median
+Afternoon (12-5 PM)    103    1.83
+  Evening (6-11 PM)      5    3.57
+  Morning (6-11 AM)    188    2.25
+Overnight (12-5 AM)    195    2.46
+
+== photo_time_block
+         time_block  posts  median
+Afternoon (12-5 PM)     96    1.93
+  Evening (6-11 PM)      7    1.79
+  Morning (6-11 AM)    161    2.61
+Overnight (12-5 AM)    162    2.77
+
+== quartile
+page_size_quartile  posts  median
+       Q1 smallest    125    1.65
+                Q2    128    2.32
+                Q3    128    3.03
+        Q4 largest    119    2.39
+
+== quartile_month
+page_size_quartile  min  max
+       Q1 smallest    1    4
+                Q2    4    7
+                Q3    7   10
+        Q4 largest   10   12
+
+== paid
+  paid  posts  median
+  Paid    139    2.00
+Unpaid    360    2.19
+
+== category
+   category  posts  median
+     Action    215    1.09
+Inspiration    155    3.06
+    Product    130    3.06
+
+== month
+ month  posts  median
+     1     25    2.08
+     2     26    1.78
+     3     36    1.07
+     4     50    2.02
+     5     37    3.08
+     6     49    2.08
+     7     52    2.20
+     8     34    2.78
+     9     36    4.75
+    10     60    1.77
+    11     45    2.56
+    12     50    2.15
