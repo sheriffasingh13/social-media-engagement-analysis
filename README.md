@@ -26,13 +26,18 @@ I started with an Instagram dataset of about 30,000 posts from Hugging Face (see
 | Dataset and analysis plan | Done | [reports/02_Dataset_and_Analysis_Plan.pdf](reports/02_Dataset_and_Analysis_Plan.pdf) |
 | Data cleaning and exploration | Done | [reports/03_Data_Cleaning_and_Exploration.pdf](reports/03_Data_Cleaning_and_Exploration.pdf) |
 | Analysis outputs (SQL) | Done | [reports/04_Analysis_Outputs.pdf](reports/04_Analysis_Outputs.pdf) |
-| Tableau dashboard | Next | |
+| Tableau dashboard | Draft done | [dashboard/social_media_engagement.twb](dashboard/social_media_engagement.twb) |
 | Final paper, slides, and video | Due Dec 1 | |
 
 ## Draft findings
 1. **Photos had the highest engagement rate.** The median was 2.45% for photos (426 posts), compared with 1.53% for status updates, 0.68% for links, and 0.55% for videos. Photos were still higher inside each content category (product, inspiration, and action).
 2. **Overnight and morning posts did better than afternoon posts.** For photos, the median was 2.77% overnight, 2.61% in the morning, and 1.93% in the afternoon. The dataset doesn't say what time zone the hours are in, so I can't name a best time to post.
 3. **Page-size quartiles are also time-of-year groups.** The page grew all year, so each quartile covers a different part of 2014. The quartiles with lower engagement also had more action posts (offers and contests) and fewer photos.
+
+## Tableau dashboard
+![Social media engagement dashboard](images/dashboard.png)
+
+The dashboard shows my four main views in one place: engagement by post format, photo vs. non-photo posts within each category, photo vs. non-photo posts by posting time, and engagement by month. Every value is a median, and the number of posts is shown where groups are small. The workbook is [dashboard/social_media_engagement.twb](dashboard/social_media_engagement.twb), and it reads [data/cleaned/facebook_posts_tableau.csv](data/cleaned/facebook_posts_tableau.csv), which is made by [scripts/prepare_tableau_data.py](scripts/prepare_tableau_data.py).
 
 ## Analysis outputs (SQL)
 I ran four SQL queries on the cleaned data ([sql/analysis_queries.sql](sql/analysis_queries.sql)). The full results are in [outputs/analysis_results.txt](outputs/analysis_results.txt), and my write-up is in [reports/04_Analysis_Outputs.pdf](reports/04_Analysis_Outputs.pdf).
@@ -58,6 +63,8 @@ data/raw/          original UCI file and its description
 data/cleaned/      cleaned file used for the analysis
 scripts/           Python (pandas) cleaning script
 sql/               SQLite scripts: load the data, then run the analysis queries
+dashboard/         Tableau workbook
+images/            dashboard screenshot
 outputs/           cleaning log, query results, and summary tables
 reports/           the write-up for each stage of the project
 ```
@@ -68,7 +75,9 @@ From the main project folder:
 python3 scripts/clean_facebook_metrics.py
 sqlite3 outputs/facebook_metrics.db < sql/load_data.sql
 sqlite3 outputs/facebook_metrics.db < sql/analysis_queries.sql
+python3 scripts/prepare_tableau_data.py
 ```
+To open the dashboard, open the .twb file in Tableau and point it to data/cleaned/facebook_posts_tableau.csv if it asks for the data.
 
 ## Limitations
 - One brand, one platform, one year. The results describe this page, not social media in general.
@@ -76,4 +85,4 @@ sqlite3 outputs/facebook_metrics.db < sql/analysis_queries.sql
 - The time zone for posting hour is not given.
 - Page size and time of year move together, so their effects can't be separated.
 
-**Tools:** Python (pandas), SQL (SQLite), Tableau (in progress)
+**Tools:** Python (pandas), SQL (SQLite), Tableau

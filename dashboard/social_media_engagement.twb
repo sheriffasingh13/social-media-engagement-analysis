@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook original-version='18.1' source-build='2026.2.1 (20262.26.0708.1337)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Facebook posts' inline='true' name='federated.0fbengagement000000000000' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='facebook_posts_tableau.csv' name='textscan.0fbengagement000000000000'>
+            <connection class='textscan' directory='/Users/sheriffasingh/Documents/GitHub/social-media-engagement-analysis/data/cleaned' filename='facebook_posts_tableau.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0fbengagement000000000000' name='facebook_posts_tableau.csv' table='[facebook_posts_tableau#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='format' ordinal='0' />
+            <column datatype='string' name='format_label' ordinal='1' />
+            <column datatype='string' name='format_group' ordinal='2' />
+            <column datatype='string' name='category' ordinal='3' />
+            <column datatype='string' name='time_block' ordinal='4' />
+            <column datatype='integer' name='time_block_order' ordinal='5' />
+            <column datatype='integer' name='month' ordinal='6' />
+            <column datatype='string' name='month_name' ordinal='7' />
+            <column datatype='string' name='page_size_quartile' ordinal='8' />
+            <column datatype='string' name='paid' ordinal='9' />
+            <column datatype='integer' name='reach' ordinal='10' />
+            <column datatype='integer' name='likes' ordinal='11' />
+            <column datatype='integer' name='comments' ordinal='12' />
+            <column datatype='integer' name='shares' ordinal='13' />
+            <column datatype='real' name='engagement' ordinal='14' />
+            <column datatype='string' name='flagged' ordinal='15' />
+          </columns>
+        </relation>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Post Format' datatype='string' name='[format]' role='dimension' type='nominal' />
+      <column caption='Post Format' datatype='string' name='[format_label]' role='dimension' type='nominal' />
+      <column caption='Photo or Non-photo' datatype='string' name='[format_group]' role='dimension' type='nominal' />
+      <column caption='Category' datatype='string' name='[category]' role='dimension' type='nominal' />
+      <column caption='Time Block' datatype='string' name='[time_block]' role='dimension' type='nominal' />
+      <column caption='Time Block Order' datatype='integer' name='[time_block_order]' role='measure' type='quantitative' />
+      <column caption='Month Number' datatype='integer' name='[month]' role='measure' type='quantitative' />
+      <column caption='Month' datatype='string' name='[month_name]' role='dimension' type='nominal' />
+      <column caption='Page Size Quartile' datatype='string' name='[page_size_quartile]' role='dimension' type='nominal' />
+      <column caption='Paid' datatype='string' name='[paid]' role='dimension' type='nominal' />
+      <column caption='Reach' datatype='integer' name='[reach]' role='measure' type='quantitative' />
+      <column caption='Likes' datatype='integer' name='[likes]' role='measure' type='quantitative' />
+      <column caption='Comments' datatype='integer' name='[comments]' role='measure' type='quantitative' />
+      <column caption='Shares' datatype='integer' name='[shares]' role='measure' type='quantitative' />
+      <column caption='Engagement Rate' datatype='real' name='[engagement]' role='measure' type='quantitative' default-format='p0.00%' />
+      <column caption='Flagged Post' datatype='string' name='[flagged]' role='dimension' type='nominal' />
+      <extract count='-1' enabled='true' object-id='' units='records' user-specific='false'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='/Users/sheriffasingh/Documents/My Tableau Repository/Datasources/facebook_posts_extract.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='11/17/2026 07:00:00 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+        </connection>
+      </extract>
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:format_group:nk]' type='palette'>
+            <map to='#2f6f8f'><bucket>&quot;Photo&quot;</bucket></map>
+            <map to='#e0a458'><bucket>&quot;Non-photo&quot;</bucket></map>
+          </encoding>
+        </style-rule>
+      </style>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Engagement by Format'>
+      <layout-options>
+        <title><formatted-text><run bold='true' fontsize='12'>Median engagement rate by post format</run></formatted-text></title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources><datasource caption='Facebook posts' name='federated.0fbengagement000000000000' /></datasources>
+          <datasource-dependencies datasource='federated.0fbengagement000000000000'>
+<column caption='Engagement Rate' datatype='real' name='[engagement]' role='measure' type='quantitative' default-format='p0.00%' />
+<column-instance column='[engagement]' derivation='Median' name='[med:engagement:qk]' pivot='key' type='quantitative' />
+<column caption='Post Format' datatype='string' name='[format_label]' role='dimension' type='nominal' />
+<column-instance column='[format_label]' derivation='None' name='[none:format_label:nk]' pivot='key' type='nominal' />
+<column caption='Photo or Non-photo' datatype='string' name='[format_group]' role='dimension' type='nominal' />
+<column-instance column='[format_group]' derivation='None' name='[none:format_group:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts><shelf-sort-v2 dimension-to-sort='[federated.0fbengagement000000000000].[none:format_label:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0fbengagement000000000000].[med:engagement:qk]' shelf='rows' /></shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='cols' value='Median engagement rate' />
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='rows' value='Median engagement rate' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view><breakdown value='auto' /></view>
+            <mark class='Bar' />
+            <encodings><color column='[federated.0fbengagement000000000000].[none:format_group:nk]' /></encodings>
+            <style><style-rule element='mark'><format attr='mark-labels-show' value='true' /><format attr='mark-labels-cull' value='false' /></style-rule></style>
+          </pane>
+        </panes>
+        <rows>[federated.0fbengagement000000000000].[none:format_label:nk]</rows>
+        <cols>[federated.0fbengagement000000000000].[med:engagement:qk]</cols>
+      </table>
+      <simple-id uuid='{9DBE65D3-D27E-420A-88C1-C3081F5814F5}' />
+    </worksheet>
+    <worksheet name='Format by Category'>
+      <layout-options>
+        <title><formatted-text><run bold='true' fontsize='12'>Photo vs. non-photo posts within each category</run></formatted-text></title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources><datasource caption='Facebook posts' name='federated.0fbengagement000000000000' /></datasources>
+          <datasource-dependencies datasource='federated.0fbengagement000000000000'>
+<column caption='Engagement Rate' datatype='real' name='[engagement]' role='measure' type='quantitative' default-format='p0.00%' />
+<column-instance column='[engagement]' derivation='Median' name='[med:engagement:qk]' pivot='key' type='quantitative' />
+<column caption='Category' datatype='string' name='[category]' role='dimension' type='nominal' />
+<column-instance column='[category]' derivation='None' name='[none:category:nk]' pivot='key' type='nominal' />
+<column caption='Photo or Non-photo' datatype='string' name='[format_group]' role='dimension' type='nominal' />
+<column-instance column='[format_group]' derivation='None' name='[none:format_group:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts><shelf-sort-v2 dimension-to-sort='[federated.0fbengagement000000000000].[none:category:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0fbengagement000000000000].[med:engagement:qk]' shelf='rows' /><shelf-sort-v2 dimension-to-sort='[federated.0fbengagement000000000000].[none:format_group:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0fbengagement000000000000].[med:engagement:qk]' shelf='rows' /></shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='cols' value='Median engagement rate' />
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='rows' value='Median engagement rate' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view><breakdown value='auto' /></view>
+            <mark class='Bar' />
+            <encodings><color column='[federated.0fbengagement000000000000].[none:format_group:nk]' /></encodings>
+            <style><style-rule element='mark'><format attr='mark-labels-show' value='true' /><format attr='mark-labels-cull' value='false' /></style-rule></style>
+          </pane>
+        </panes>
+        <rows>([federated.0fbengagement000000000000].[none:category:nk] / [federated.0fbengagement000000000000].[none:format_group:nk])</rows>
+        <cols>[federated.0fbengagement000000000000].[med:engagement:qk]</cols>
+      </table>
+      <simple-id uuid='{0989784F-68BA-497A-8FB3-90F6AFE3F2B1}' />
+    </worksheet>
+    <worksheet name='Format by Time Block'>
+      <layout-options>
+        <title><formatted-text><run bold='true' fontsize='12'>Photo vs. non-photo posts by posting time (time zone not given)</run></formatted-text></title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources><datasource caption='Facebook posts' name='federated.0fbengagement000000000000' /></datasources>
+          <datasource-dependencies datasource='federated.0fbengagement000000000000'>
+<column caption='Engagement Rate' datatype='real' name='[engagement]' role='measure' type='quantitative' default-format='p0.00%' />
+<column-instance column='[engagement]' derivation='Median' name='[med:engagement:qk]' pivot='key' type='quantitative' />
+<column caption='Time Block' datatype='string' name='[time_block]' role='dimension' type='nominal' />
+<column-instance column='[time_block]' derivation='None' name='[none:time_block:nk]' pivot='key' type='nominal' />
+<column caption='Photo or Non-photo' datatype='string' name='[format_group]' role='dimension' type='nominal' />
+<column-instance column='[format_group]' derivation='None' name='[none:format_group:nk]' pivot='key' type='nominal' />
+<column caption='Time Block Order' datatype='integer' name='[time_block_order]' role='measure' type='quantitative' />
+<column-instance column='[time_block_order]' derivation='Min' name='[min:time_block_order:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <shelf-sorts><shelf-sort-v2 dimension-to-sort='[federated.0fbengagement000000000000].[none:time_block:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0fbengagement000000000000].[min:time_block_order:qk]' shelf='rows' /><shelf-sort-v2 dimension-to-sort='[federated.0fbengagement000000000000].[none:format_group:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0fbengagement000000000000].[med:engagement:qk]' shelf='rows' /></shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='cols' value='Median engagement rate' />
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='rows' value='Median engagement rate' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view><breakdown value='auto' /></view>
+            <mark class='Bar' />
+            <encodings><color column='[federated.0fbengagement000000000000].[none:format_group:nk]' /></encodings>
+            <style><style-rule element='mark'><format attr='mark-labels-show' value='true' /><format attr='mark-labels-cull' value='false' /></style-rule></style>
+          </pane>
+        </panes>
+        <rows>([federated.0fbengagement000000000000].[none:time_block:nk] / [federated.0fbengagement000000000000].[none:format_group:nk])</rows>
+        <cols>[federated.0fbengagement000000000000].[med:engagement:qk]</cols>
+      </table>
+      <simple-id uuid='{6A4FA48B-584F-4747-A5A9-324F16F167E4}' />
+    </worksheet>
+    <worksheet name='Engagement by Month'>
+      <layout-options>
+        <title><formatted-text><run bold='true' fontsize='12'>Median engagement rate by month, 2014 (the page grew all year)</run></formatted-text></title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources><datasource caption='Facebook posts' name='federated.0fbengagement000000000000' /></datasources>
+          <datasource-dependencies datasource='federated.0fbengagement000000000000'>
+<column caption='Engagement Rate' datatype='real' name='[engagement]' role='measure' type='quantitative' default-format='p0.00%' />
+<column-instance column='[engagement]' derivation='Median' name='[med:engagement:qk]' pivot='key' type='quantitative' />
+<column caption='Month' datatype='string' name='[month_name]' role='dimension' type='nominal' />
+<column-instance column='[month_name]' derivation='None' name='[none:month_name:nk]' pivot='key' type='nominal' />
+<column caption='Month Number' datatype='integer' name='[month]' role='measure' type='quantitative' />
+<column-instance column='[month]' derivation='Min' name='[min:month:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <shelf-sorts><shelf-sort-v2 dimension-to-sort='[federated.0fbengagement000000000000].[none:month_name:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0fbengagement000000000000].[min:month:qk]' shelf='columns' /></shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='cols' value='Median engagement rate' />
+            <format attr='title' class='0' field='[federated.0fbengagement000000000000].[med:engagement:qk]' scope='rows' value='Median engagement rate' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view><breakdown value='auto' /></view>
+            <mark class='Line' />
+            
+            <style><style-rule element='mark'><format attr='mark-labels-show' value='true' /><format attr='mark-labels-cull' value='false' /></style-rule></style>
+          </pane>
+        </panes>
+        <rows>[federated.0fbengagement000000000000].[med:engagement:qk]</rows>
+        <cols>[federated.0fbengagement000000000000].[none:month_name:nk]</cols>
+      </table>
+      <simple-id uuid='{8F0FDD76-6193-4967-8897-B8A2FECBDEE3}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Social Media Engagement'>
+      <style />
+      <size maxheight='900' maxwidth='1200' minheight='900' minwidth='1200' sizing-mode='fixed' />
+      <zones>
+        <zone h='100000' id='1' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='10000' id='2' type-v2='text' w='100000' x='0' y='0'>
+            <formatted-text><run bold='true' fontsize='20'>How post format and timing relate to engagement</run><run>Æ&#10;</run><run fontcolor='#555555' fontsize='11'>500 posts from one cosmetics brand's Facebook page, 2014. Engagement rate = (likes + comments + shares) / reach. All values are medians. Orange = photo posts, blue = non-photo posts (status, link, video).</run></formatted-text>
+            <zone-style><format attr='border-style' value='none' /><format attr='margin' value='6' /></zone-style>
+          </zone>
+          <zone h='42000' id='3' name='Engagement by Format' w='50000' x='0' y='10000'><zone-style><format attr='border-style' value='none' /><format attr='margin' value='6' /></zone-style></zone>
+          <zone h='42000' id='4' name='Format by Category' w='50000' x='50000' y='10000'><zone-style><format attr='border-style' value='none' /><format attr='margin' value='6' /></zone-style></zone>
+          <zone h='42000' id='5' name='Format by Time Block' w='50000' x='0' y='52000'><zone-style><format attr='border-style' value='none' /><format attr='margin' value='6' /></zone-style></zone>
+          <zone h='42000' id='6' name='Engagement by Month' w='50000' x='50000' y='52000'><zone-style><format attr='border-style' value='none' /><format attr='margin' value='6' /></zone-style></zone>
+          <zone h='6000' id='7' type-v2='text' w='100000' x='0' y='94000'>
+            <formatted-text><run fontcolor='#555555' fontsize='10'>Small groups: 7 videos, 22 links, 5 non-photo inspiration posts, 8 non-photo afternoon posts, and 7 evening posts. Posting hour is shown as recorded; the dataset does not give a time zone. Data: Moro, Rita &amp; Vala (2016), UCI Machine Learning Repository. Dashboard by Sheriffa Singh.</run></formatted-text>
+            <zone-style><format attr='border-style' value='none' /><format attr='margin' value='6' /></zone-style>
+          </zone>
+        </zone>
+      </zones>
+      <simple-id uuid='{EDF3FF28-B28F-4BA7-B7F4-7FC9F33EFB9B}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
+    <window class='worksheet' name='Engagement by Format'>
+      <cards>
+        <edge name='left'><strip size='160'><card type='pages' /><card type='filters' /><card type='marks' /></strip></edge>
+        <edge name='top'><strip size='2147483647'><card type='columns' /></strip><strip size='2147483647'><card type='rows' /></strip><strip size='31'><card type='title' /></strip></edge>
+      </cards>
+      <simple-id uuid='{06F78B9B-8D77-4888-8D0C-9F7653E1FDBD}' />
+    </window>
+    <window class='worksheet' name='Format by Category'>
+      <cards>
+        <edge name='left'><strip size='160'><card type='pages' /><card type='filters' /><card type='marks' /></strip></edge>
+        <edge name='top'><strip size='2147483647'><card type='columns' /></strip><strip size='2147483647'><card type='rows' /></strip><strip size='31'><card type='title' /></strip></edge>
+      </cards>
+      <simple-id uuid='{2E6996A3-A01F-4703-A796-8F06429FCD39}' />
+    </window>
+    <window class='worksheet' name='Format by Time Block'>
+      <cards>
+        <edge name='left'><strip size='160'><card type='pages' /><card type='filters' /><card type='marks' /></strip></edge>
+        <edge name='top'><strip size='2147483647'><card type='columns' /></strip><strip size='2147483647'><card type='rows' /></strip><strip size='31'><card type='title' /></strip></edge>
+      </cards>
+      <simple-id uuid='{01A19283-B49E-4CF4-86BE-21C210ABBE2A}' />
+    </window>
+    <window class='worksheet' name='Engagement by Month'>
+      <cards>
+        <edge name='left'><strip size='160'><card type='pages' /><card type='filters' /><card type='marks' /></strip></edge>
+        <edge name='top'><strip size='2147483647'><card type='columns' /></strip><strip size='2147483647'><card type='rows' /></strip><strip size='31'><card type='title' /></strip></edge>
+      </cards>
+      <simple-id uuid='{20398683-1F9E-4640-9A17-E57AE109745E}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Social Media Engagement'>
+      <viewpoints>
+        <viewpoint name='Engagement by Format' />
+        <viewpoint name='Format by Category' />
+        <viewpoint name='Format by Time Block' />
+        <viewpoint name='Engagement by Month' />
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{D9419F7D-874F-4DCA-BEA2-BAEB1B2BD520}' />
+    </window>
+  </windows>
+</workbook>

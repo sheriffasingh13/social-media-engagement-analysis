@@ -1,0 +1,501 @@
+format,format_label,format_group,category,time_block,time_block_order,month,month_name,page_size_quartile,paid,reach,likes,comments,shares,engagement,flagged
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,2752,79,4,17,0.03634,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,10460,130,5,29,0.01568,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,2413,66,0,14,0.03315,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Paid,50128,1572,58,147,0.03545,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,7244,325,19,49,0.05425,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,10472,152,1,33,0.01776,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Paid,11692,249,3,27,0.023860000000000003,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,12,Dec,Q4 largest,Paid,13720,325,0,14,0.02471,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,11844,161,0,31,0.01621,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,4694,113,3,26,0.03025,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,21744,233,0,19,0.01159,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,3112,88,0,18,0.03406,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,2847,90,0,14,0.03653,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,2549,137,5,10,0.05963,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Paid,22784,577,2,20,0.02629,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,10060,86,4,18,0.010740000000000001,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,1722,40,2,12,0.03136,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,12,Dec,Q4 largest,Paid,53264,678,15,20,0.013389999999999999,No
+Status,Status (45 posts),Non-photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,3930,54,4,17,0.01908,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,1591,34,0,8,0.0264,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,2848,66,3,12,0.02844,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,1384,0,0,0,0.0,No
+Link,Link (22 posts),Non-photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,3454,16,0,2,0.00521,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,2723,72,0,24,0.03526,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,8488,99,3,19,0.01426,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,8284,88,0,18,0.0128,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,19552,412,10,72,0.02527,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,2478,100,0,17,0.047220000000000005,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,9560,523,36,63,0.06506,No
+Video,Video (7 posts),Non-photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Paid,36208,143,18,13,0.00481,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,4940,107,33,22,0.03279,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,1683,27,1,11,0.023170000000000003,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,5280,155,2,47,0.03864,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,3002,98,4,23,0.041639999999999996,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,3766,56,2,17,0.01992,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,4512,172,6,21,0.0441,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,2690,96,0,17,0.04201,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Paid,19800,76,16,8,0.00505,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,17576,227,11,31,0.015300000000000001,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,3290,44,1,14,0.017929999999999998,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,13280,216,7,39,0.01973,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,12,Dec,Q4 largest,Paid,18480,187,6,18,0.01142,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,7268,26,7,3,0.0049499999999999995,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,12,Dec,Q4 largest,Paid,2645,29,7,10,0.017390000000000003,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,4284,47,0,11,0.013540000000000002,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,12,Dec,Q4 largest,Paid,7968,57,4,10,0.00891,No
+Status,Status (45 posts),Non-photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,16576,174,4,36,0.01291,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,1925,18,6,8,0.01662,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,12,Dec,Q4 largest,Unpaid,3786,77,0,15,0.024300000000000002,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,12,Dec,Q4 largest,Unpaid,1536,12,1,1,0.00911,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,1728,48,1,9,0.03356,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,25248,285,24,28,0.013349999999999999,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,4894,202,9,31,0.04945,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,2935,64,4,19,0.02964,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,2425,66,4,13,0.034230000000000003,No
+Video,Video (7 posts),Non-photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,16416,65,2,14,0.00493,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,5812,164,2,54,0.03785,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,2545,40,0,13,0.02083,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,2257,76,3,11,0.03988,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,27072,139,4,17,0.0059099999999999995,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Paid,10940,101,8,14,0.011240000000000002,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,50912,144,8,10,0.00318,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Paid,28752,179,10,13,0.00703,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,27216,219,4,22,0.009000000000000001,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,2352,60,2,7,0.02934,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,3416,77,19,23,0.03484,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,2149,48,0,7,0.02559,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,53456,697,20,70,0.01472,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,2168,53,0,17,0.03229,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,3102,84,7,28,0.03836,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Paid,39344,146,7,9,0.0041199999999999995,No
+Video,Video (7 posts),Non-photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,100768,449,17,84,0.0054600000000000004,No
+Status,Status (45 posts),Non-photo,Inspiration,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,9056,226,3,44,0.03015,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,11444,172,14,47,0.02036,No
+Video,Video (7 posts),Non-photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,13544,99,2,13,0.00842,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Paid,37376,411,20,74,0.01351,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,1228,0,0,0,0.0,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,22984,85,4,8,0.00422,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,1445,56,0,8,0.04429,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,11,Nov,Q4 largest,Unpaid,3754,29,2,7,0.01012,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,8728,86,2,13,0.01157,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,5990,370,18,53,0.07362,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,4582,190,5,57,0.055,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,11,Nov,Q4 largest,Paid,2938,101,2,19,0.04152,No
+Status,Status (45 posts),Non-photo,Inspiration,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,6692,99,2,16,0.01748,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Paid,2566,140,10,8,0.06157,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,21176,130,2,31,0.0077,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,4012,270,3,38,0.07751999999999999,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,1531,30,3,6,0.025470000000000003,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,11,Nov,Q4 largest,Paid,2938,107,2,17,0.04289,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,24720,331,13,77,0.01703,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,2219,78,0,13,0.04101,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,4732,301,9,32,0.07227,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,11,Nov,Q4 largest,Unpaid,2225,111,2,16,0.057980000000000004,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,11,Nov,Q4 largest,Unpaid,2626,124,2,22,0.05636,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,3090,153,5,27,0.05987,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,10,Oct,Q4 largest,Unpaid,1101,51,3,11,0.05904,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,2819,115,1,26,0.05037,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,10,Oct,Q4 largest,Paid,12468,310,7,61,0.03032,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,12776,328,12,90,0.03366,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q4 largest,Paid,1357,0,0,0,0.0,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,10,Oct,Q4 largest,Unpaid,68896,1505,26,95,0.0236,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,1711,63,2,14,0.04617,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,10,Oct,Q4 largest,Unpaid,1388,13,0,4,0.01225,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q4 largest,Paid,2645,59,4,9,0.02722,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,10,Oct,Q4 largest,Unpaid,70144,955,42,139,0.016200000000000003,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,3674,181,9,32,0.06042,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,10,Oct,Q4 largest,Unpaid,9504,193,17,28,0.02504,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,2426,125,7,16,0.06101,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,10,Oct,Q4 largest,Unpaid,13872,217,4,50,0.01954,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,1673,28,2,4,0.02032,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,1261,0,0,0,0.0,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,10,Oct,Q4 largest,Unpaid,2428,117,4,18,0.057249999999999995,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,10,Oct,Q4 largest,Paid,2227,79,2,16,0.04356,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,10,Oct,Q4 largest,Unpaid,1592,15,0,2,0.01068,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,10,Oct,Q4 largest,Paid,813,4,0,2,0.00738,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,10,Oct,Q4 largest,Unpaid,32208,431,1,26,0.01422,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,729,7,0,0,0.0096,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q4 largest,Unpaid,834,7,0,2,0.01079,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,786,6,0,2,0.01018,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,584,2,0,0,0.0034200000000000003,Yes
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,15816,186,6,40,0.01467,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,619,1,1,2,0.0064600000000000005,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,617,3,1,2,0.00972,Yes
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,677,7,0,0,0.01034,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,677,7,0,2,0.01329,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,3366,198,3,41,0.0719,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,10,Oct,Q3,Unpaid,747,9,0,1,0.013389999999999999,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,10,Oct,Q3,Unpaid,645,4,0,1,0.00775,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,10,Oct,Q3,Unpaid,754,3,0,0,0.00398,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,910,8,0,2,0.01099,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,3906,7,0,3,0.00256,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,659,7,1,2,0.01517,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,652,11,0,1,0.0184,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,861,28,2,4,0.03949,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,3690,56,0,12,0.01843,No
+Link,Link (22 posts),Non-photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,4664,32,0,16,0.010289999999999999,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,1080,32,4,3,0.03611,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,8896,129,0,25,0.017310000000000002,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Paid,4018,77,4,19,0.02489,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,68992,143,15,44,0.00293,No
+Status,Status (45 posts),Non-photo,Inspiration,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,13152,227,2,36,0.02015,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,10,Oct,Q3,Paid,31136,859,60,90,0.03241,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,10,Oct,Q3,Paid,16776,377,10,60,0.02665,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,10,Oct,Q3,Paid,50736,41,3,9,0.00104,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Paid,5324,76,6,14,0.01803,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,18120,189,0,15,0.01126,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,2291,80,0,14,0.04103,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,10744,148,3,28,0.016659999999999998,No
+Link,Link (22 posts),Non-photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Paid,3616,24,0,11,0.00968,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,39984,302,24,41,0.00918,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,4010,166,2,32,0.04988000000000001,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,10,Oct,Q3,Paid,6564,358,47,49,0.06917,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,10,Oct,Q3,Unpaid,8612,161,7,25,0.02241,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,10,Oct,Q3,Unpaid,5568,319,13,55,0.0695,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,1685,54,0,16,0.04154,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,3756,117,16,30,0.0434,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,2656,115,1,21,0.05158,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,5086,187,30,35,0.049550000000000004,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Paid,2055,84,1,13,0.04769,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,9384,363,6,40,0.043579999999999994,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,3992,244,6,32,0.07064,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,7512,290,22,98,0.054580000000000004,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,11096,243,4,41,0.02596,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,1060,18,0,0,0.01698,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Paid,2790,113,0,19,0.04731,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,9,Sep,Q3,Paid,13856,77,2,5,0.006059999999999999,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,9,Sep,Q3,Paid,10748,485,8,64,0.051820000000000005,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,41984,1622,144,208,0.04702,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Paid,2522,99,6,16,0.04798,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,4480,188,3,26,0.048440000000000004,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,1543,30,2,6,0.02463,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,21256,163,38,27,0.01073,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,4484,179,6,40,0.050179999999999995,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,4398,204,5,34,0.05525,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Paid,13216,165,2,22,0.0143,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,9,Sep,Q3,Paid,22304,1047,29,98,0.05264,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,6208,234,2,40,0.04446,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,4518,250,7,42,0.06618,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,3582,154,4,36,0.05416000000000001,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Paid,9124,150,20,29,0.02181,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,14152,102,4,8,0.008060000000000001,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,9,Sep,Q3,Paid,4260,226,1,44,0.06362,No
+Video,Video (7 posts),Non-photo,Action,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,30624,345,6,121,0.01541,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,9,Sep,Q3,Unpaid,2363,68,11,11,0.03809,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,2232,62,0,10,0.03226,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,4048,223,5,35,0.06497,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,1804,61,0,6,0.03714,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,9,Sep,Q3,Paid,2351,104,1,12,0.04977,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,9,Sep,Q3,Unpaid,3100,146,3,15,0.0529,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,9,Sep,Q3,Paid,2360,102,2,15,0.05042,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,19648,766,9,43,0.04163,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,2295,63,0,7,0.0305,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,8,Aug,Q3,Paid,3934,113,3,17,0.03381,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,34512,442,6,42,0.014199999999999999,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,5282,278,9,43,0.06248,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,1809,64,2,7,0.040350000000000004,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,8,Aug,Q3,Unpaid,1920,52,1,7,0.03125,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,8,Aug,Q3,Paid,1954,30,0,2,0.01638,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,33536,1155,33,102,0.03847,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,8,Aug,Q3,Paid,4204,139,2,25,0.03949,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,3376,40,0,5,0.01333,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,8,Aug,Q3,Paid,9236,53,2,15,0.00758,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,72864,220,4,19,0.00333,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,3358,114,2,16,0.03931,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,8,Aug,Q3,Paid,3254,39,0,3,0.01291,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,50640,859,4,68,0.01838,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,3734,137,5,20,0.043390000000000005,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,2594,54,1,11,0.02544,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,8,Aug,Q3,Paid,2232,74,2,22,0.04391,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,8,Aug,Q3,Paid,22120,98,6,3,0.00484,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,7980,264,2,21,0.03596,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,1659,36,3,11,0.030139999999999997,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,8,Aug,Q3,Paid,1006,11,1,3,0.014910000000000001,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,8,Aug,Q3,Paid,12728,435,4,31,0.03693,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,28880,114,2,10,0.00436,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,1330,17,2,9,0.02105,No
+Status,Status (45 posts),Non-photo,Product,Afternoon (12-5 PM),3,8,Aug,Q3,Unpaid,14424,15,41,1,0.00395,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,14200,87,3,10,0.007039999999999999,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,8,Aug,Q3,Unpaid,5746,227,16,28,0.04716,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,2540,86,2,8,0.0378,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,4324,179,6,27,0.04903,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,8,Aug,Q3,Unpaid,8260,74,1,11,0.010409999999999999,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,8,Aug,Q3,Paid,20168,332,18,54,0.020030000000000003,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,8,Aug,Q3,Unpaid,5046,80,2,21,0.020409999999999998,No
+Status,Status (45 posts),Non-photo,Product,Afternoon (12-5 PM),3,7,Jul,Q3,Unpaid,15296,95,9,17,0.00791,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,7,Jul,Q3,Paid,3414,188,3,26,0.06356,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q3,Paid,95424,109,6,11,0.00132,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,7,Jul,Q3,Unpaid,14824,367,64,25,0.03076,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,7,Jul,Q3,Unpaid,3504,102,9,19,0.0371,No
+Photo,Photo (426 posts),Photo,Inspiration,Evening (6-11 PM),4,7,Jul,Q3,Unpaid,2822,113,2,20,0.04784,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,7,Jul,Q3,Unpaid,2973,94,0,20,0.03835,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,7,Jul,Q3,Paid,10824,14,6,1,0.00194,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q3,Unpaid,4592,43,1,10,0.01176,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,7,Jul,Q3,Unpaid,3176,98,1,21,0.03778,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,7,Jul,Q3,Unpaid,10956,13,3,1,0.00155,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,7,Jul,Q3,Unpaid,10888,237,12,45,0.027000000000000003,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,7,Jul,Q3,Unpaid,3594,112,4,23,0.03868,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,7,Jul,Q3,Unpaid,3384,101,2,25,0.03783,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,7,Jul,Q3,Paid,4096,145,10,31,0.045410000000000006,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,7,Jul,Q3,Unpaid,19968,535,6,83,0.03125,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q3,Unpaid,4892,118,4,22,0.02944,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,7,Jul,Q3,Unpaid,17360,484,9,79,0.03295,No
+Video,Video (7 posts),Non-photo,Action,Morning (6-11 AM),2,7,Jul,Q3,Paid,21872,315,18,76,0.0187,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,7,Jul,Q3,Paid,180480,5172,372,790,0.0351,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,7,Jul,Q3,Unpaid,44464,154,4,30,0.00423,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,7,Jul,Q3,Unpaid,2881,73,0,15,0.030539999999999998,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,7,Jul,Q2,Unpaid,3460,96,0,19,0.03324,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,7,Jul,Q2,Unpaid,3406,98,1,19,0.03464,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,7,Jul,Q2,Paid,2602,53,1,14,0.02613,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q2,Paid,5848,71,4,10,0.014530000000000001,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q2,Unpaid,26944,194,6,34,0.00868,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,5292,226,6,42,0.05178,No
+Status,Status (45 posts),Non-photo,Product,Afternoon (12-5 PM),3,7,Jul,Q2,Paid,15576,238,11,51,0.01926,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,54256,755,10,58,0.01517,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,7,Jul,Q2,Paid,3726,47,30,8,0.02281,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q2,Paid,31904,126,2,32,0.00502,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,7,Jul,Q2,Paid,40336,104,4,10,0.00293,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,4220,167,10,26,0.0481,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,7,Jul,Q2,Unpaid,4666,152,9,41,0.043289999999999995,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,7,Jul,Q2,Paid,4274,128,0,15,0.033460000000000004,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,7,Jul,Q2,Unpaid,28208,234,13,43,0.010280000000000001,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,3330,61,2,16,0.023719999999999998,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,7,Jul,Q2,Paid,3528,66,0,9,0.021259999999999998,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,38576,529,7,60,0.015449999999999998,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,7,Jul,Q2,Paid,2628,42,3,10,0.02093,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,7232,75,2,24,0.01397,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,7,Jul,Q2,Unpaid,10188,61,13,13,0.008539999999999999,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,6408,162,26,7,0.030430000000000002,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q2,Paid,3414,47,2,4,0.01552,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,7,Jul,Q2,Paid,53056,696,6,28,0.01376,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,7,Jul,Q2,Paid,66976,215,7,47,0.00402,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,7,Jul,Q2,Paid,76096,534,22,31,0.00771,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,7,Jul,Q2,Unpaid,5458,143,1,27,0.03133,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,7,Jul,Q2,Unpaid,3706,46,18,7,0.01916,No
+Status,Status (45 posts),Non-photo,Product,Afternoon (12-5 PM),3,7,Jul,Q2,Unpaid,18320,98,36,14,0.00808,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,7,Jul,Q2,Paid,2316,25,0,5,0.01295,No
+Video,Video (7 posts),Non-photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,139008,204,23,44,0.0019500000000000001,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,6,Jun,Q2,Paid,5854,202,11,5,0.03724,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,109056,148,7,39,0.00178,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,3212,40,1,8,0.015260000000000001,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,3046,71,1,17,0.029220000000000003,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,12044,104,0,13,0.00971,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,6,Jun,Q2,Paid,9652,34,1,4,0.00404,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,28112,129,11,12,0.005410000000000001,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,8628,72,4,18,0.01089,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,6,Jun,Q2,Paid,2431,15,0,3,0.0074,No
+Photo,Photo (426 posts),Photo,Action,Evening (6-11 PM),4,6,Jun,Q2,Paid,20560,102,14,9,0.0060799999999999995,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,20896,469,103,33,0.02895,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,2402,57,5,5,0.02789,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,1729,23,0,2,0.014459999999999999,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,4320,141,5,26,0.03981,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,2585,19,0,5,0.00928,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,3322,71,1,23,0.0286,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,3600,72,0,21,0.025830000000000002,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,11620,54,5,7,0.005679999999999999,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,4248,93,5,19,0.02754,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,2763,62,0,10,0.02606,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,3558,78,0,16,0.02642,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,8324,14,0,1,0.0018,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,6952,231,11,43,0.040999999999999995,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Paid,2823,72,1,16,0.03153,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Paid,63840,197,9,28,0.00367,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Paid,11608,330,4,29,0.03127,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,58304,148,0,7,0.00266,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,4762,208,2,28,0.049980000000000004,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,6150,148,12,28,0.03057,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Paid,4644,154,4,26,0.03962,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,22464,142,3,18,0.00726,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,3754,107,8,20,0.03596,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,4452,22,0,3,0.005620000000000001,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,3576,84,2,13,0.027679999999999996,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,3028,59,2,12,0.02411,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Paid,4022,65,3,14,0.020390000000000002,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,6,Jun,Q2,Paid,52736,24,0,4,0.00053,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,47376,186,9,23,0.0046,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,3234,58,0,17,0.02319,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,3322,74,2,14,0.02709,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,6768,180,2,44,0.03339,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,6,Jun,Q2,Paid,11304,168,18,49,0.020790000000000003,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,13544,36,0,5,0.0030299999999999997,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,6,Jun,Q2,Unpaid,3418,51,2,6,0.01726,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Paid,3662,67,2,14,0.02267,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,6,Jun,Q2,Unpaid,56672,1372,20,47,0.025390000000000003,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Paid,3294,57,2,6,0.01973,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,6,Jun,Q2,Unpaid,3110,33,2,10,0.01447,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,3806,79,1,17,0.02549,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,5,May,Q2,Paid,3776,97,3,22,0.03231,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,39040,617,16,58,0.0177,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,5,May,Q2,Paid,4032,139,7,34,0.044640000000000006,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,21248,199,20,32,0.011810000000000001,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,5,May,Q2,Unpaid,4344,107,1,26,0.03085,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,2718,50,0,10,0.022080000000000002,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,5,May,Q2,Unpaid,3024,64,0,20,0.02778,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,5,May,Q2,Unpaid,10152,55,2,10,0.0066,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,5,May,Q2,Unpaid,4708,142,1,37,0.03823,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,2772,72,2,9,0.02994,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,5,May,Q2,Unpaid,2812,79,4,16,0.03521,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,5,May,Q2,Paid,6460,244,25,44,0.04845,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,5,May,Q2,Unpaid,18056,307,25,58,0.0216,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,5,May,Q2,Unpaid,5016,212,6,36,0.05064,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,5,May,Q2,Unpaid,3528,95,2,17,0.03231,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,5,May,Q2,Unpaid,6444,194,5,33,0.036000000000000004,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Paid,4458,101,6,29,0.030510000000000002,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,5,May,Q2,Unpaid,12540,46,3,14,0.00502,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Paid,4362,156,3,20,0.04104,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,5,May,Q2,Unpaid,38960,821,37,90,0.024329999999999997,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,3144,58,1,13,0.0229,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,5,May,Q2,Paid,4336,155,12,23,0.04382,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,81856,1639,45,122,0.02206,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,5,May,Q2,Unpaid,5728,155,3,32,0.033170000000000005,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Paid,5490,166,4,33,0.03698,No
+Status,Status (45 posts),Non-photo,Action,Overnight (12-5 AM),1,5,May,Q2,Paid,23832,210,6,39,0.010700000000000001,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,5,May,Q2,Unpaid,18552,400,4,25,0.023119999999999998,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,4132,98,2,18,0.02856,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,5,May,Q2,Unpaid,4910,138,12,38,0.038290000000000005,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,4202,148,3,16,0.039740000000000004,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,5,May,Q2,Unpaid,5976,267,2,40,0.051710000000000006,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,5,May,Q2,Unpaid,5206,144,1,29,0.03342,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,5,May,Q2,Unpaid,6984,256,25,54,0.04797,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,5,May,Q2,Unpaid,6000,72,3,24,0.0165,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,5,May,Q2,Unpaid,3332,87,0,18,0.031509999999999996,No
+Status,Status (45 posts),Non-photo,Product,Morning (6-11 AM),2,5,May,Q2,Unpaid,9232,129,1,36,0.01798,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q2,Paid,5212,179,1,30,0.04029,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q2,Unpaid,24264,194,9,33,0.009729999999999999,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,4,Apr,Q2,Unpaid,4280,124,1,32,0.036680000000000004,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q2,Unpaid,6692,304,4,47,0.05305,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q2,Paid,5594,138,12,39,0.03379,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,4,Apr,Q2,Unpaid,11336,41,4,9,0.0047599999999999995,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,4,Apr,Q2,Paid,5582,163,2,35,0.03583,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q2,Unpaid,28352,407,45,76,0.01862,No
+Status,Status (45 posts),Non-photo,Product,Overnight (12-5 AM),1,4,Apr,Q2,Paid,17912,447,17,123,0.03277,No
+Link,Link (22 posts),Non-photo,Action,Morning (6-11 AM),2,4,Apr,Q2,Paid,35360,38,7,11,0.00158,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,4,Apr,Q2,Unpaid,9084,93,2,26,0.01332,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q2,Paid,6880,59,0,16,0.0109,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,4,Apr,Q1 smallest,Paid,12824,286,0,30,0.02464,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,4,Apr,Q1 smallest,Unpaid,6596,66,0,13,0.01198,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Paid,7492,236,8,51,0.03938,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,4,Apr,Q1 smallest,Paid,44288,152,2,11,0.00373,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Paid,105632,1998,51,128,0.02061,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,128064,186,8,18,0.00166,No
+Photo,Photo (426 posts),Photo,Inspiration,Evening (6-11 PM),4,4,Apr,Q1 smallest,Unpaid,5994,235,11,34,0.04671,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,6172,64,1,22,0.0141,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,4986,92,2,28,0.024470000000000002,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,6668,53,3,13,0.01035,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,4,Apr,Q1 smallest,Paid,5298,140,5,38,0.03454,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,35008,48,0,8,0.0016,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Paid,5402,112,0,14,0.023319999999999997,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,4,Apr,Q1 smallest,Unpaid,9880,35,0,5,0.004050000000000001,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,3334,37,4,3,0.0132,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Paid,3130,48,0,14,0.01981,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Paid,32208,766,6,109,0.02735,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,20920,96,1,18,0.0055000000000000005,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,3884,57,1,13,0.01828,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,4240,114,3,21,0.032549999999999996,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,4,Apr,Q1 smallest,Unpaid,3544,51,1,6,0.01637,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Paid,3286,87,1,27,0.035,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,4,Apr,Q1 smallest,Unpaid,71360,81,5,11,0.00136,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,3824,71,1,18,0.023540000000000002,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,6360,164,9,52,0.035379999999999995,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Paid,3714,91,5,26,0.032850000000000004,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Paid,46192,329,9,38,0.00814,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Paid,39568,128,4,17,0.00377,No
+Link,Link (22 posts),Non-photo,Action,Morning (6-11 AM),2,4,Apr,Q1 smallest,Unpaid,70912,379,1,40,0.00592,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,4552,52,1,24,0.01692,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,4,Apr,Q1 smallest,Unpaid,4390,63,1,26,0.020499999999999997,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,4770,97,2,25,0.026000000000000002,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,4,Apr,Q1 smallest,Paid,2970,56,2,9,0.022559999999999997,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,34192,36,1,7,0.0012900000000000001,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,5302,138,4,26,0.03169,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Unpaid,5560,142,7,24,0.031120000000000002,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,4,Apr,Q1 smallest,Unpaid,4406,75,1,15,0.020649999999999998,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,4,Apr,Q1 smallest,Paid,5290,89,1,14,0.01966,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Paid,3696,63,2,16,0.021920000000000002,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Paid,6030,176,3,29,0.03449,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,3,Mar,Q1 smallest,Unpaid,49632,227,7,15,0.00502,No
+Status,Status (45 posts),Non-photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,9120,25,3,6,0.00373,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,3,Mar,Q1 smallest,Unpaid,1874,0,0,0,0.0,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,3,Mar,Q1 smallest,Unpaid,4122,27,1,11,0.00946,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Unpaid,5080,39,0,14,0.01043,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,4068,61,0,13,0.018189999999999998,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Unpaid,3272,32,0,7,0.01192,No
+Photo,Photo (426 posts),Photo,Action,Evening (6-11 PM),4,3,Mar,Q1 smallest,Unpaid,238,2,0,0,0.0084,Yes
+Photo,Photo (426 posts),Photo,Action,Evening (6-11 PM),4,3,Mar,Q1 smallest,Unpaid,3358,109,8,3,0.03574,No
+Photo,Photo (426 posts),Photo,Action,Evening (6-11 PM),4,3,Mar,Q1 smallest,Unpaid,6400,32,0,6,0.00594,No
+Link,Link (22 posts),Non-photo,Inspiration,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Unpaid,6876,68,2,15,0.01236,No
+Photo,Photo (426 posts),Photo,Action,Evening (6-11 PM),4,3,Mar,Q1 smallest,Unpaid,391,6,0,1,0.0179,Yes
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,10844,213,4,13,0.02121,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,5132,2,0,0,0.00039,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,3772,3,0,0,0.0008,No
+Link,Link (22 posts),Non-photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,2933,6,0,0,0.0020499999999999997,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,4094,4,0,0,0.00098,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,452,4,0,1,0.01106,Yes
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,11420,211,12,14,0.02075,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,5704,15,1,1,0.00298,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,7192,95,11,4,0.01529,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Paid,9604,127,16,0,0.01489,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,3,Mar,Q1 smallest,Unpaid,122944,136,0,13,0.00121,No
+Link,Link (22 posts),Non-photo,Product,Morning (6-11 AM),2,3,Mar,Q1 smallest,Unpaid,5730,32,2,15,0.00855,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Unpaid,4898,76,1,9,0.01756,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,3,Mar,Q1 smallest,Unpaid,4118,28,1,7,0.00874,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Paid,1845,0,0,0,0.0,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Unpaid,34480,664,10,97,0.02236,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,3,Mar,Q1 smallest,Unpaid,5338,62,1,10,0.013680000000000001,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Unpaid,5312,48,0,20,0.0128,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,3,Mar,Q1 smallest,Paid,4412,55,1,7,0.01428,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Paid,98816,197,10,21,0.00231,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,3,Mar,Q1 smallest,Paid,7220,88,6,24,0.01634,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,3,Mar,Q1 smallest,Paid,14320,59,2,6,0.00468,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Paid,27056,234,6,26,0.00983,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,2,Feb,Q1 smallest,Unpaid,20528,148,3,21,0.00838,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,6416,96,0,29,0.01948,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,2,Feb,Q1 smallest,Unpaid,5786,49,4,15,0.01175,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,5878,98,3,27,0.02178,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Unpaid,9528,198,14,70,0.0296,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,8500,159,5,53,0.02553,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,2,Feb,Q1 smallest,Paid,3796,22,1,6,0.00764,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,2,Feb,Q1 smallest,Unpaid,28128,154,6,18,0.00633,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,7228,128,5,32,0.02283,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Paid,5290,129,2,32,0.03081,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,55520,1546,146,181,0.03374,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Unpaid,5880,79,5,11,0.01616,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Paid,10040,214,19,78,0.030979999999999997,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Paid,153536,134,8,34,0.00115,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,158208,268,9,36,0.00198,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Unpaid,6484,128,4,38,0.02622,No
+Photo,Photo (426 posts),Photo,Product,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Paid,4840,47,3,21,0.01467,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Paid,15880,200,1,37,0.014990000000000002,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,15288,264,5,36,0.019950000000000002,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Unpaid,9528,193,10,61,0.02771,No
+Link,Link (22 posts),Non-photo,Action,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,9356,114,4,13,0.013999999999999999,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Unpaid,7732,160,7,57,0.02897,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,5240,46,0,15,0.01164,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,2,Feb,Q1 smallest,Paid,7132,136,4,42,0.02552,No
+Photo,Photo (426 posts),Photo,Action,Afternoon (12-5 PM),3,2,Feb,Q1 smallest,Unpaid,21928,73,0,13,0.00392,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,1,Jan,Q1 smallest,Paid,5754,65,0,19,0.0146,No
+Photo,Photo (426 posts),Photo,Action,Morning (6-11 AM),2,1,Jan,Q1 smallest,Paid,37088,579,7,47,0.017070000000000002,Yes
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,39600,101,1,5,0.0027,Yes
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,1,Jan,Q1 smallest,Unpaid,5536,74,1,31,0.01915,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,6056,84,7,36,0.02097,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,11484,360,56,99,0.04485,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Paid,4938,5,0,2,0.0014199999999999998,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,66784,187,3,36,0.00338,Yes
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,5526,69,2,26,0.01755,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,5040,82,2,24,0.021429999999999998,No
+Link,Link (22 posts),Non-photo,Action,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,5168,12,0,2,0.00271,No
+Photo,Photo (426 posts),Photo,Inspiration,Afternoon (12-5 PM),3,1,Jan,Q1 smallest,Unpaid,5034,56,2,25,0.01649,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,4908,44,1,21,0.01345,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,9700,277,21,80,0.03897,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,4800,74,1,28,0.02146,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,5280,79,1,30,0.02083,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Paid,6184,105,1,46,0.02458,No
+Link,Link (22 posts),Non-photo,Action,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,45920,128,0,9,0.00298,Yes
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,8412,185,17,55,0.03055,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,5400,125,10,41,0.03259,No
+Photo,Photo (426 posts),Photo,Inspiration,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,4684,53,5,26,0.017929999999999998,No
+Photo,Photo (426 posts),Photo,Product,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,3480,53,0,22,0.02155,No
+Photo,Photo (426 posts),Photo,Action,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unpaid,3778,93,4,18,0.030440000000000002,No
+Photo,Photo (426 posts),Photo,Inspiration,Morning (6-11 AM),2,1,Jan,Q1 smallest,Unpaid,4156,91,7,38,0.03272,No
+Photo,Photo (426 posts),Photo,Product,Overnight (12-5 AM),1,1,Jan,Q1 smallest,Unknown,4188,91,0,28,0.02841,No

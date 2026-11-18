@@ -1,3 +1,6 @@
 .DS_Store
 # The database is rebuilt from the cleaned CSV with sql/load_data.sql
 outputs/*.db
+# Tableau lock and backup files
+*.twbr
+.~*
