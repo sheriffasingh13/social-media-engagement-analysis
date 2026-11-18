@@ -34,6 +34,18 @@ I started with an Instagram dataset of about 30,000 posts from Hugging Face (see
 2. **Overnight and morning posts did better than afternoon posts.** For photos, the median was 2.77% overnight, 2.61% in the morning, and 1.93% in the afternoon. The dataset doesn't say what time zone the hours are in, so I can't name a best time to post.
 3. **Page-size quartiles are also time-of-year groups.** The page grew all year, so each quartile covers a different part of 2014. The quartiles with lower engagement also had more action posts (offers and contests) and fewer photos.
 
+## Analysis outputs (SQL)
+I ran four SQL queries on the cleaned data ([sql/analysis_queries.sql](sql/analysis_queries.sql)). The full results are in [outputs/analysis_results.txt](outputs/analysis_results.txt), and my write-up is in [reports/04_Analysis_Outputs.pdf](reports/04_Analysis_Outputs.pdf).
+
+| Output | What it compares |
+|---|---|
+| 1 | Median engagement rate by post format (all posts, and without the 9 flagged posts) |
+| 2 | Photo vs. non-photo posts within each category |
+| 3 | Photo vs. non-photo posts in each posting time block |
+| 4 | Page-size quartiles, with the months, % photos, and % action posts in each one |
+
+**Draft answer so far:** for this brand, post format had the clearest connection to engagement rate. Photos had a higher median than other formats overall, inside each category, and in each time block where I could compare them. Posting hour also seems to matter, with earlier posts doing better than afternoon posts, but I can't name a best hour because the time zone is unknown.
+
 ## How I cleaned the data
 - Filled 5 blank like and share values using Total Interactions (in every complete row, Total Interactions = likes + comments + shares)
 - Checked for duplicates (there were none) and fixed the data types
